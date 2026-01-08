@@ -1,0 +1,67 @@
+openapi: 3.0.0
+info:
+  description: This API receives player data from Connor's game servers around the world
+  version: "1.0.0"
+  title: Game Server API
+  contact:
+    email: cbell86@my.bcit.ca
+paths:
+  /server/info:
+    post:
+      summary: Reports health of a server
+      operationId: app.server_health
+      description: Adds a batch of server statistics
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/' 
+
+components:
+  schemas:
+    PlayerReading:
+      required:
+      - player_id
+      - player_username
+      - player_ping
+      - player_level
+      properties:
+        player_id:
+          type: string
+          format: uuid
+          example: "2c11dd14-dd4e-492c-a697-f39b6dbb2426"
+        player_username:
+          type: string
+          example: "DarkShadow41"
+        player_ping:
+          type: string
+          example: "41 ms"
+        player_level:
+          type: integer
+          example: 99
+      type: object
+
+    ServerHealth:
+      required:
+      - server_id
+      - server_location
+      - players
+      - entities
+      properties:
+        server_id:
+          type: string
+          format: uuid
+          example: "dc0a7a50-2795-43e3-b6c5-28b69aab1b5e" 
+        server_location:
+          type: string
+          example: ca-west-1
+        players:
+          type: array
+          items:
+            $ref: '#/components/schemas/PlayerReading'
+      type: object
+    
+    PlayerReadingBatch:
+      required:
+      - 
+    
