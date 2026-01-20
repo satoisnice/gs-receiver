@@ -49,7 +49,7 @@ components:
       - server_region
       - readings
       properties:
-        sender_id:
+        server_id:
           type: string
           format: uuid
           description: ID of the server/device sending this batch. Same across batches from that sender.

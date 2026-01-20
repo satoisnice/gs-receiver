@@ -1,0 +1,27 @@
+{
+  "num_player_telemetry_batches": 2,
+  "recent_batch_data": [
+    {
+      "ping_average_ms": 41.0,
+      "min_ping_ms": 41,
+      "max_ping_ms": 41,
+      "num_events": 1,
+      "action_counts": {
+        "level_up": 1
+      },
+      "avg_player_level": 99.0,
+      "received_timestamp": "2026-01-19 20:15:55.776941"
+    },
+    {
+      "ping_average_ms": 25.5,
+      "min_ping_ms": 10,
+      "max_ping_ms": 41,
+      "num_events": 2,
+      "action_counts": {
+        "level_up": 2
+      },
+      "avg_player_level": 50.0,
+      "received_timestamp": "2026-01-19 20:16:35.889014"
+    }
+  ]
+}
