@@ -1,27 +1,65 @@
 {
-  "num_player_telemetry_batches": 2,
+  "num_player_telemetry_batches": 350,
   "recent_batch_data": [
     {
-      "ping_average_ms": 41.0,
-      "min_ping_ms": 41,
-      "max_ping_ms": 41,
-      "num_events": 1,
-      "action_counts": {
-        "level_up": 1
-      },
-      "avg_player_level": 99.0,
-      "received_timestamp": "2026-01-19 20:15:55.776941"
-    },
-    {
-      "ping_average_ms": 25.5,
-      "min_ping_ms": 10,
-      "max_ping_ms": 41,
+      "ping_average_ms": 54.0,
+      "min_ping_ms": 22,
+      "max_ping_ms": 86,
       "num_events": 2,
       "action_counts": {
-        "level_up": 2
+        "login": 1,
+        "kill": 1
       },
-      "avg_player_level": 50.0,
-      "received_timestamp": "2026-01-19 20:16:35.889014"
+      "avg_player_level": 81.0,
+      "received_timestamp": "2026-01-21 08:58:00.944592"
+    },
+    {
+      "ping_average_ms": 61.0,
+      "min_ping_ms": 40,
+      "max_ping_ms": 82,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 63.0,
+      "received_timestamp": "2026-01-21 08:58:00.950985"
+    },
+    {
+      "ping_average_ms": 74.0,
+      "min_ping_ms": 28,
+      "max_ping_ms": 120,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 65.5,
+      "received_timestamp": "2026-01-21 08:58:00.957365"
+    },
+    {
+      "ping_average_ms": 53.5,
+      "min_ping_ms": 36,
+      "max_ping_ms": 71,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 36.5,
+      "received_timestamp": "2026-01-21 08:58:00.963127"
+    },
+    {
+      "ping_average_ms": 50.0,
+      "min_ping_ms": 22,
+      "max_ping_ms": 78,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 16.0,
+      "received_timestamp": "2026-01-21 08:58:00.969025"
     }
   ]
 }
