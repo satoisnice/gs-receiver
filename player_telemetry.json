@@ -1,65 +1,65 @@
 {
-  "num_player_telemetry_batches": 350,
+  "num_player_telemetry_batches": 199,
   "recent_batch_data": [
     {
-      "ping_average_ms": 54.0,
-      "min_ping_ms": 22,
-      "max_ping_ms": 86,
-      "num_events": 2,
-      "action_counts": {
-        "login": 1,
-        "kill": 1
-      },
-      "avg_player_level": 81.0,
-      "received_timestamp": "2026-01-21 08:58:00.944592"
-    },
-    {
-      "ping_average_ms": 61.0,
-      "min_ping_ms": 40,
-      "max_ping_ms": 82,
-      "num_events": 2,
-      "action_counts": {
-        "login": 1,
-        "kill": 1
-      },
-      "avg_player_level": 63.0,
-      "received_timestamp": "2026-01-21 08:58:00.950985"
-    },
-    {
-      "ping_average_ms": 74.0,
-      "min_ping_ms": 28,
-      "max_ping_ms": 120,
-      "num_events": 2,
-      "action_counts": {
-        "login": 1,
-        "kill": 1
-      },
-      "avg_player_level": 65.5,
-      "received_timestamp": "2026-01-21 08:58:00.957365"
-    },
-    {
-      "ping_average_ms": 53.5,
-      "min_ping_ms": 36,
-      "max_ping_ms": 71,
-      "num_events": 2,
-      "action_counts": {
-        "login": 1,
-        "kill": 1
-      },
-      "avg_player_level": 36.5,
-      "received_timestamp": "2026-01-21 08:58:00.963127"
-    },
-    {
-      "ping_average_ms": 50.0,
-      "min_ping_ms": 22,
+      "ping_average_ms": 70.0,
+      "min_ping_ms": 62,
       "max_ping_ms": 78,
       "num_events": 2,
       "action_counts": {
         "login": 1,
         "kill": 1
       },
-      "avg_player_level": 16.0,
-      "received_timestamp": "2026-01-21 08:58:00.969025"
+      "avg_player_level": 78.5,
+      "received_timestamp": "2026-01-21 10:20:45.070776"
+    },
+    {
+      "ping_average_ms": 31.5,
+      "min_ping_ms": 28,
+      "max_ping_ms": 35,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 40.0,
+      "received_timestamp": "2026-01-21 10:20:45.075465"
+    },
+    {
+      "ping_average_ms": 64.0,
+      "min_ping_ms": 45,
+      "max_ping_ms": 83,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 84.5,
+      "received_timestamp": "2026-01-21 10:20:45.079681"
+    },
+    {
+      "ping_average_ms": 105.5,
+      "min_ping_ms": 95,
+      "max_ping_ms": 116,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 30.0,
+      "received_timestamp": "2026-01-21 10:20:45.083720"
+    },
+    {
+      "ping_average_ms": 49.0,
+      "min_ping_ms": 25,
+      "max_ping_ms": 73,
+      "num_events": 2,
+      "action_counts": {
+        "login": 1,
+        "kill": 1
+      },
+      "avg_player_level": 72.0,
+      "received_timestamp": "2026-01-21 10:20:45.088222"
     }
   ]
 }

@@ -5,6 +5,7 @@ import json
 from datetime import datetime
 
 MAX_BATCH_EVENTS = 5 
+# these files wil be change to url e.g., http://localhost:8088/event/somethign
 PLAYER_TELEMETRY_FILE = "./player_telemetry.json"
 SERVER_HEALTH_FILE = "./server_health.json"
 
