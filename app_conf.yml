@@ -1,0 +1,6 @@
+version: 1
+events:
+  server_health:
+    url: http://localhost:8089/events/server-health
+  player_telemetry:
+    url: http://localhost:8089/events/player-telemetry

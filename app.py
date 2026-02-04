@@ -4,18 +4,34 @@ import httpx
 import os
 import json
 from datetime import datetime
+import time
+import yaml
+import logging
+import logging.config
 
-STORAGE_URL = "http://localhost:8089"
+# STORAGE_URL = "http://localhost:8089"
 
-def _save(filename, data):
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=2)
+with open("app_conf.yml", "r") as f:
+    app_config = yaml.safe_load(f.read())
+with open("log_conf.yml", "r") as f:
+    LOG_CONFIG = yaml.safe_load(f.read())
+    logging.config.dictConfig(LOG_CONFIG)
+logger = logging.getLogger("basicLogger")
+
+
+def add_trace_id():
+    return time.time_ns()
+
 
 def report_server_health_readings(body):
     status = 201
+    trace_id = add_trace_id()
+    logger.info("Received event server_health with a trace id of %s", trace_id)
 
     for reading in body["readings"]:
         payload = {
+            "trace_id": trace_id,
+
             "server_id": body["server_id"],
             "sent_timestamp": body["sent_timestamp"],
             "batch_id": body["batch_id"],
@@ -27,9 +43,21 @@ def report_server_health_readings(body):
             "ram_usage": reading["ram_usage"],
             "recorded_timestamp": reading["recorded_timestamp"],
         }
+        # print("SENDING TO STORAGE:", payload)
 
-        r = httpx.post(f"{STORAGE_URL}/events/server-health", json=payload)
+        # r = httpx.post(f"{STORAGE_URL}/events/server-health", json=payload)
+        r = httpx.post(
+            app_config["events"]["server_health"]["url"],
+            json=payload
+        )
         status = r.status_code
+
+        logger.info(
+            "Response for event server_health (id: %s) has status %s",
+            trace_id,
+            status
+        )
+
         if status >= 400:
             break
 
@@ -37,9 +65,13 @@ def report_server_health_readings(body):
 
 def report_player_telemetry_event(body):
     status = 201
+    trace_id = add_trace_id()
+    logger.info("Received event player_telemetry with a trace id of %s", trace_id)
 
     for event in body["events"]:
         payload = {
+            "trace_id": trace_id,
+
             "server_id": body["server_id"],
             "sent_timestamp": body["sent_timestamp"],
             "batch_id": body["batch_id"],
@@ -51,9 +83,23 @@ def report_player_telemetry_event(body):
             "player_level": event.get("player_level"),
             "action": event.get("action"),
         }
+        # print("SENDING TO STORAGE:", payload)
 
-        r = httpx.post(f"{STORAGE_URL}/events/player-telemetry", json=payload)
+        # r = httpx.post(f"{STORAGE_URL}/events/player-telemetry", json=payload)
+        r = httpx.post(
+            app_config["events"]["player_telemetry"]["url"],
+            json=payload
+        )
         status = r.status_code
+
+        logger.info(
+            "Response for event player_telemetry (id: %s) has status %s",
+            trace_id,
+            status
+        )
+        logger.info("Storage response body: %s", r.text)
+
+
         if status >= 400:
             break
 

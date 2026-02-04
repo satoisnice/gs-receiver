@@ -1,0 +1,1600 @@
+2026-02-04 08:21:54,776 - basicLogger - INFO - Received event server_health with a trace id of 1770222114775983703
+2026-02-04 08:21:54,827 - basicLogger - INFO - Response for event server_health (id: 1770222114775983703) has status 201
+2026-02-04 08:21:54,845 - basicLogger - INFO - Response for event server_health (id: 1770222114775983703) has status 201
+2026-02-04 08:21:54,848 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222114848454939
+2026-02-04 08:21:54,866 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114848454939) has status 201
+2026-02-04 08:21:54,866 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:54,871 - basicLogger - INFO - Received event server_health with a trace id of 1770222114871935982
+2026-02-04 08:21:54,884 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114848454939) has status 201
+2026-02-04 08:21:54,884 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:54,887 - basicLogger - INFO - Received event server_health with a trace id of 1770222114887332758
+2026-02-04 08:21:54,888 - basicLogger - INFO - Response for event server_health (id: 1770222114871935982) has status 201
+2026-02-04 08:21:54,904 - basicLogger - INFO - Response for event server_health (id: 1770222114887332758) has status 201
+2026-02-04 08:21:54,905 - basicLogger - INFO - Response for event server_health (id: 1770222114871935982) has status 201
+2026-02-04 08:21:54,907 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222114907591355
+2026-02-04 08:21:54,920 - basicLogger - INFO - Response for event server_health (id: 1770222114887332758) has status 201
+2026-02-04 08:21:54,923 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222114923643791
+2026-02-04 08:21:54,924 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114907591355) has status 201
+2026-02-04 08:21:54,924 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:54,941 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114923643791) has status 201
+2026-02-04 08:21:54,941 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:54,942 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114907591355) has status 201
+2026-02-04 08:21:54,942 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:54,944 - basicLogger - INFO - Received event server_health with a trace id of 1770222114944724321
+2026-02-04 08:21:54,958 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114923643791) has status 201
+2026-02-04 08:21:54,958 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:54,961 - basicLogger - INFO - Response for event server_health (id: 1770222114944724321) has status 201
+2026-02-04 08:21:54,961 - basicLogger - INFO - Received event server_health with a trace id of 1770222114961787330
+2026-02-04 08:21:54,983 - basicLogger - INFO - Received event server_health with a trace id of 1770222114983369164
+2026-02-04 08:21:54,992 - basicLogger - INFO - Response for event server_health (id: 1770222114961787330) has status 201
+2026-02-04 08:21:54,994 - basicLogger - INFO - Response for event server_health (id: 1770222114944724321) has status 201
+2026-02-04 08:21:54,997 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222114997186184
+2026-02-04 08:21:55,001 - basicLogger - INFO - Response for event server_health (id: 1770222114983369164) has status 201
+2026-02-04 08:21:55,014 - basicLogger - INFO - Response for event server_health (id: 1770222114961787330) has status 201
+2026-02-04 08:21:55,016 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115016314624
+2026-02-04 08:21:55,019 - basicLogger - INFO - Response for event server_health (id: 1770222114983369164) has status 201
+2026-02-04 08:21:55,020 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114997186184) has status 201
+2026-02-04 08:21:55,020 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,022 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115022548047
+2026-02-04 08:21:55,033 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115016314624) has status 201
+2026-02-04 08:21:55,033 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,037 - basicLogger - INFO - Response for event player_telemetry (id: 1770222114997186184) has status 201
+2026-02-04 08:21:55,037 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,040 - basicLogger - INFO - Received event server_health with a trace id of 1770222115040289254
+2026-02-04 08:21:55,041 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115022548047) has status 201
+2026-02-04 08:21:55,041 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,049 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115016314624) has status 201
+2026-02-04 08:21:55,049 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,053 - basicLogger - INFO - Received event server_health with a trace id of 1770222115053469916
+2026-02-04 08:21:55,059 - basicLogger - INFO - Response for event server_health (id: 1770222115040289254) has status 201
+2026-02-04 08:21:55,062 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115022548047) has status 201
+2026-02-04 08:21:55,062 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,064 - basicLogger - INFO - Received event server_health with a trace id of 1770222115064777420
+2026-02-04 08:21:55,072 - basicLogger - INFO - Received event server_health with a trace id of 1770222115072444792
+2026-02-04 08:21:55,073 - basicLogger - INFO - Response for event server_health (id: 1770222115053469916) has status 201
+2026-02-04 08:21:55,076 - basicLogger - INFO - Response for event server_health (id: 1770222115040289254) has status 201
+2026-02-04 08:21:55,080 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115080177608
+2026-02-04 08:21:55,090 - basicLogger - INFO - Response for event server_health (id: 1770222115064777420) has status 201
+2026-02-04 08:21:55,095 - basicLogger - INFO - Response for event server_health (id: 1770222115072444792) has status 201
+2026-02-04 08:21:55,096 - basicLogger - INFO - Response for event server_health (id: 1770222115053469916) has status 201
+2026-02-04 08:21:55,099 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115099847646
+2026-02-04 08:21:55,102 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115080177608) has status 201
+2026-02-04 08:21:55,102 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,113 - basicLogger - INFO - Response for event server_health (id: 1770222115064777420) has status 201
+2026-02-04 08:21:55,116 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115116373749
+2026-02-04 08:21:55,118 - basicLogger - INFO - Response for event server_health (id: 1770222115072444792) has status 201
+2026-02-04 08:21:55,119 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115099847646) has status 201
+2026-02-04 08:21:55,119 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,121 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115121508448
+2026-02-04 08:21:55,123 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115080177608) has status 201
+2026-02-04 08:21:55,123 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,125 - basicLogger - INFO - Received event server_health with a trace id of 1770222115125922776
+2026-02-04 08:21:55,152 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115099847646) has status 201
+2026-02-04 08:21:55,153 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,154 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115116373749) has status 201
+2026-02-04 08:21:55,155 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,157 - basicLogger - INFO - Received event server_health with a trace id of 1770222115157221448
+2026-02-04 08:21:55,162 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115121508448) has status 201
+2026-02-04 08:21:55,162 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,164 - basicLogger - INFO - Response for event server_health (id: 1770222115125922776) has status 201
+2026-02-04 08:21:55,172 - basicLogger - INFO - Received event server_health with a trace id of 1770222115172575735
+2026-02-04 08:21:55,177 - basicLogger - INFO - Response for event server_health (id: 1770222115157221448) has status 201
+2026-02-04 08:21:55,179 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115116373749) has status 201
+2026-02-04 08:21:55,179 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,182 - basicLogger - INFO - Received event server_health with a trace id of 1770222115182956818
+2026-02-04 08:21:55,184 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115121508448) has status 201
+2026-02-04 08:21:55,184 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,187 - basicLogger - INFO - Received event server_health with a trace id of 1770222115187832665
+2026-02-04 08:21:55,189 - basicLogger - INFO - Response for event server_health (id: 1770222115125922776) has status 201
+2026-02-04 08:21:55,193 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115193922008
+2026-02-04 08:21:55,203 - basicLogger - INFO - Response for event server_health (id: 1770222115157221448) has status 201
+2026-02-04 08:21:55,207 - basicLogger - INFO - Response for event server_health (id: 1770222115172575735) has status 201
+2026-02-04 08:21:55,207 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115207612008
+2026-02-04 08:21:55,210 - basicLogger - INFO - Response for event server_health (id: 1770222115182956818) has status 201
+2026-02-04 08:21:55,210 - basicLogger - INFO - Response for event server_health (id: 1770222115187832665) has status 201
+2026-02-04 08:21:55,217 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115193922008) has status 201
+2026-02-04 08:21:55,217 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,226 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115207612008) has status 201
+2026-02-04 08:21:55,227 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,229 - basicLogger - INFO - Response for event server_health (id: 1770222115172575735) has status 201
+2026-02-04 08:21:55,232 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115232691231
+2026-02-04 08:21:55,239 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115193922008) has status 201
+2026-02-04 08:21:55,239 - basicLogger - INFO - Response for event server_health (id: 1770222115182956818) has status 201
+2026-02-04 08:21:55,239 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,245 - basicLogger - INFO - Response for event server_health (id: 1770222115187832665) has status 201
+2026-02-04 08:21:55,246 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115246149366
+2026-02-04 08:21:55,246 - basicLogger - INFO - Received event server_health with a trace id of 1770222115246663838
+2026-02-04 08:21:55,250 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115250686794
+2026-02-04 08:21:55,254 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115207612008) has status 201
+2026-02-04 08:21:55,254 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,257 - basicLogger - INFO - Received event server_health with a trace id of 1770222115257496204
+2026-02-04 08:21:55,259 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115232691231) has status 201
+2026-02-04 08:21:55,259 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,273 - basicLogger - INFO - Received event server_health with a trace id of 1770222115273143661
+2026-02-04 08:21:55,274 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115246149366) has status 201
+2026-02-04 08:21:55,275 - basicLogger - INFO - Response for event server_health (id: 1770222115246663838) has status 201
+2026-02-04 08:21:55,275 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,276 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115250686794) has status 201
+2026-02-04 08:21:55,276 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,302 - basicLogger - INFO - Response for event server_health (id: 1770222115257496204) has status 201
+2026-02-04 08:21:55,318 - basicLogger - INFO - Response for event server_health (id: 1770222115246663838) has status 201
+2026-02-04 08:21:55,321 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115321256200
+2026-02-04 08:21:55,322 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115232691231) has status 201
+2026-02-04 08:21:55,322 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,327 - basicLogger - INFO - Received event server_health with a trace id of 1770222115327114526
+2026-02-04 08:21:55,329 - basicLogger - INFO - Response for event server_health (id: 1770222115273143661) has status 201
+2026-02-04 08:21:55,329 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115246149366) has status 201
+2026-02-04 08:21:55,330 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,331 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115250686794) has status 201
+2026-02-04 08:21:55,331 - basicLogger - INFO - Response for event server_health (id: 1770222115257496204) has status 201
+2026-02-04 08:21:55,332 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,335 - basicLogger - INFO - Received event server_health with a trace id of 1770222115335391754
+2026-02-04 08:21:55,339 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115339348699
+2026-02-04 08:21:55,340 - basicLogger - INFO - Received event server_health with a trace id of 1770222115340157813
+2026-02-04 08:21:55,353 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115321256200) has status 201
+2026-02-04 08:21:55,353 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,358 - basicLogger - INFO - Response for event server_health (id: 1770222115273143661) has status 201
+2026-02-04 08:21:55,359 - basicLogger - INFO - Response for event server_health (id: 1770222115327114526) has status 201
+2026-02-04 08:21:55,362 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115362874507
+2026-02-04 08:21:55,363 - basicLogger - INFO - Response for event server_health (id: 1770222115335391754) has status 201
+2026-02-04 08:21:55,370 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115339348699) has status 201
+2026-02-04 08:21:55,370 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,374 - basicLogger - INFO - Response for event server_health (id: 1770222115340157813) has status 201
+2026-02-04 08:21:55,379 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115321256200) has status 201
+2026-02-04 08:21:55,380 - basicLogger - INFO - Received event server_health with a trace id of 1770222115380430898
+2026-02-04 08:21:55,381 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,386 - basicLogger - INFO - Received event server_health with a trace id of 1770222115386601024
+2026-02-04 08:21:55,391 - basicLogger - INFO - Response for event server_health (id: 1770222115327114526) has status 201
+2026-02-04 08:21:55,395 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115362874507) has status 201
+2026-02-04 08:21:55,395 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,397 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115397211177
+2026-02-04 08:21:55,397 - basicLogger - INFO - Response for event server_health (id: 1770222115335391754) has status 201
+2026-02-04 08:21:55,401 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115339348699) has status 201
+2026-02-04 08:21:55,403 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115403184732
+2026-02-04 08:21:55,403 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,407 - basicLogger - INFO - Response for event server_health (id: 1770222115340157813) has status 201
+2026-02-04 08:21:55,407 - basicLogger - INFO - Received event server_health with a trace id of 1770222115407859648
+2026-02-04 08:21:55,411 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115411327467
+2026-02-04 08:21:55,413 - basicLogger - INFO - Response for event server_health (id: 1770222115386601024) has status 201
+2026-02-04 08:21:55,416 - basicLogger - INFO - Response for event server_health (id: 1770222115380430898) has status 201
+2026-02-04 08:21:55,430 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115403184732) has status 201
+2026-02-04 08:21:55,430 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,436 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115362874507) has status 201
+2026-02-04 08:21:55,436 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,436 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115397211177) has status 201
+2026-02-04 08:21:55,436 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,440 - basicLogger - INFO - Response for event server_health (id: 1770222115386601024) has status 201
+2026-02-04 08:21:55,441 - basicLogger - INFO - Received event server_health with a trace id of 1770222115441753883
+2026-02-04 08:21:55,443 - basicLogger - INFO - Response for event server_health (id: 1770222115407859648) has status 201
+2026-02-04 08:21:55,445 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115445586307
+2026-02-04 08:21:55,447 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115411327467) has status 201
+2026-02-04 08:21:55,447 - basicLogger - INFO - Response for event server_health (id: 1770222115380430898) has status 201
+2026-02-04 08:21:55,448 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,452 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115452597847
+2026-02-04 08:21:55,477 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115403184732) has status 201
+2026-02-04 08:21:55,477 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,483 - basicLogger - INFO - Received event server_health with a trace id of 1770222115483067695
+2026-02-04 08:21:55,487 - basicLogger - INFO - Received event server_health with a trace id of 1770222115487265681
+2026-02-04 08:21:55,489 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115397211177) has status 201
+2026-02-04 08:21:55,489 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,493 - basicLogger - INFO - Received event server_health with a trace id of 1770222115493343237
+2026-02-04 08:21:55,507 - basicLogger - INFO - Response for event server_health (id: 1770222115407859648) has status 201
+2026-02-04 08:21:55,509 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115509916831
+2026-02-04 08:21:55,511 - basicLogger - INFO - Response for event server_health (id: 1770222115441753883) has status 201
+2026-02-04 08:21:55,518 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115452597847) has status 201
+2026-02-04 08:21:55,518 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,520 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115411327467) has status 201
+2026-02-04 08:21:55,520 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115445586307) has status 201
+2026-02-04 08:21:55,521 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,521 - basicLogger - INFO - Response for event server_health (id: 1770222115487265681) has status 201
+2026-02-04 08:21:55,521 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,521 - basicLogger - INFO - Response for event server_health (id: 1770222115483067695) has status 201
+2026-02-04 08:21:55,522 - basicLogger - INFO - Response for event server_health (id: 1770222115493343237) has status 201
+2026-02-04 08:21:55,526 - basicLogger - INFO - Received event server_health with a trace id of 1770222115526316658
+2026-02-04 08:21:55,539 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115509916831) has status 201
+2026-02-04 08:21:55,539 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,550 - basicLogger - INFO - Response for event server_health (id: 1770222115441753883) has status 201
+2026-02-04 08:21:55,551 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115452597847) has status 201
+2026-02-04 08:21:55,551 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,555 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115555244076
+2026-02-04 08:21:55,557 - basicLogger - INFO - Received event server_health with a trace id of 1770222115557659918
+2026-02-04 08:21:55,560 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115445586307) has status 201
+2026-02-04 08:21:55,560 - basicLogger - INFO - Response for event server_health (id: 1770222115487265681) has status 201
+2026-02-04 08:21:55,560 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,565 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115565758290
+2026-02-04 08:21:55,571 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115509916831) has status 201
+2026-02-04 08:21:55,571 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,572 - basicLogger - INFO - Response for event server_health (id: 1770222115493343237) has status 201
+2026-02-04 08:21:55,573 - basicLogger - INFO - Received event server_health with a trace id of 1770222115573522869
+2026-02-04 08:21:55,576 - basicLogger - INFO - Received event server_health with a trace id of 1770222115576889733
+2026-02-04 08:21:55,581 - basicLogger - INFO - Response for event server_health (id: 1770222115526316658) has status 201
+2026-02-04 08:21:55,584 - basicLogger - INFO - Response for event server_health (id: 1770222115483067695) has status 201
+2026-02-04 08:21:55,585 - basicLogger - INFO - Received event server_health with a trace id of 1770222115585438768
+2026-02-04 08:21:55,586 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115586315710
+2026-02-04 08:21:55,591 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115591531929
+2026-02-04 08:21:55,595 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115555244076) has status 201
+2026-02-04 08:21:55,595 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,602 - basicLogger - INFO - Response for event server_health (id: 1770222115557659918) has status 201
+2026-02-04 08:21:55,621 - basicLogger - INFO - Response for event server_health (id: 1770222115585438768) has status 201
+2026-02-04 08:21:55,635 - basicLogger - INFO - Response for event server_health (id: 1770222115573522869) has status 201
+2026-02-04 08:21:55,635 - basicLogger - INFO - Response for event server_health (id: 1770222115576889733) has status 201
+2026-02-04 08:21:55,635 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115586315710) has status 201
+2026-02-04 08:21:55,635 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115565758290) has status 201
+2026-02-04 08:21:55,636 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,636 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,635 - basicLogger - INFO - Response for event server_health (id: 1770222115526316658) has status 201
+2026-02-04 08:21:55,649 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115649882058
+2026-02-04 08:21:55,654 - basicLogger - INFO - Response for event server_health (id: 1770222115557659918) has status 201
+2026-02-04 08:21:55,656 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115591531929) has status 201
+2026-02-04 08:21:55,656 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,657 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115555244076) has status 201
+2026-02-04 08:21:55,659 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115659898084
+2026-02-04 08:21:55,660 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,666 - basicLogger - INFO - Received event server_health with a trace id of 1770222115666896299
+2026-02-04 08:21:55,669 - basicLogger - INFO - Response for event server_health (id: 1770222115585438768) has status 201
+2026-02-04 08:21:55,676 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115676425023
+2026-02-04 08:21:55,676 - basicLogger - INFO - Received event server_health with a trace id of 1770222115676729543
+2026-02-04 08:21:55,683 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115586315710) has status 201
+2026-02-04 08:21:55,684 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,688 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115565758290) has status 201
+2026-02-04 08:21:55,688 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,689 - basicLogger - INFO - Response for event server_health (id: 1770222115576889733) has status 201
+2026-02-04 08:21:55,689 - basicLogger - INFO - Response for event server_health (id: 1770222115573522869) has status 201
+2026-02-04 08:21:55,696 - basicLogger - INFO - Received event server_health with a trace id of 1770222115696414064
+2026-02-04 08:21:55,697 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115697591744
+2026-02-04 08:21:55,701 - basicLogger - INFO - Received event server_health with a trace id of 1770222115701572000
+2026-02-04 08:21:55,704 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115704304764
+2026-02-04 08:21:55,710 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115591531929) has status 201
+2026-02-04 08:21:55,709 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115649882058) has status 201
+2026-02-04 08:21:55,710 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,711 - basicLogger - INFO - Response for event server_health (id: 1770222115666896299) has status 201
+2026-02-04 08:21:55,710 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,713 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115659898084) has status 201
+2026-02-04 08:21:55,713 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,715 - basicLogger - INFO - Response for event server_health (id: 1770222115676729543) has status 201
+2026-02-04 08:21:55,726 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115676425023) has status 201
+2026-02-04 08:21:55,726 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,725 - basicLogger - INFO - Received event server_health with a trace id of 1770222115725853233
+2026-02-04 08:21:55,745 - basicLogger - INFO - Response for event server_health (id: 1770222115696414064) has status 201
+2026-02-04 08:21:55,751 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115697591744) has status 201
+2026-02-04 08:21:55,751 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,753 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115704304764) has status 201
+2026-02-04 08:21:55,753 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,756 - basicLogger - INFO - Response for event server_health (id: 1770222115701572000) has status 201
+2026-02-04 08:21:55,757 - basicLogger - INFO - Response for event server_health (id: 1770222115666896299) has status 201
+2026-02-04 08:21:55,794 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115794606796
+2026-02-04 08:21:55,806 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115649882058) has status 201
+2026-02-04 08:21:55,806 - basicLogger - INFO - Response for event server_health (id: 1770222115676729543) has status 201
+2026-02-04 08:21:55,806 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,809 - basicLogger - INFO - Response for event server_health (id: 1770222115696414064) has status 201
+2026-02-04 08:21:55,807 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115659898084) has status 201
+2026-02-04 08:21:55,813 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115676425023) has status 201
+2026-02-04 08:21:55,813 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,812 - basicLogger - INFO - Response for event server_health (id: 1770222115725853233) has status 201
+2026-02-04 08:21:55,812 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,811 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115811599859
+2026-02-04 08:21:55,824 - basicLogger - INFO - Response for event server_health (id: 1770222115701572000) has status 201
+2026-02-04 08:21:55,828 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115697591744) has status 201
+2026-02-04 08:21:55,828 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115704304764) has status 201
+2026-02-04 08:21:55,828 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,828 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,831 - basicLogger - INFO - Received event server_health with a trace id of 1770222115831331600
+2026-02-04 08:21:55,840 - basicLogger - INFO - Received event server_health with a trace id of 1770222115840272304
+2026-02-04 08:21:55,841 - basicLogger - INFO - Received event server_health with a trace id of 1770222115841096541
+2026-02-04 08:21:55,840 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115840689604
+2026-02-04 08:21:55,849 - basicLogger - INFO - Received event server_health with a trace id of 1770222115849321557
+2026-02-04 08:21:55,850 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115850049420
+2026-02-04 08:21:55,850 - basicLogger - INFO - Received event server_health with a trace id of 1770222115850458559
+2026-02-04 08:21:55,876 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115794606796) has status 201
+2026-02-04 08:21:55,877 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,877 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115811599859) has status 201
+2026-02-04 08:21:55,879 - basicLogger - INFO - Response for event server_health (id: 1770222115725853233) has status 201
+2026-02-04 08:21:55,878 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,886 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115886640144
+2026-02-04 08:21:55,897 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115840689604) has status 201
+2026-02-04 08:21:55,897 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,903 - basicLogger - INFO - Response for event server_health (id: 1770222115849321557) has status 201
+2026-02-04 08:21:55,903 - basicLogger - INFO - Response for event server_health (id: 1770222115831331600) has status 201
+2026-02-04 08:21:55,905 - basicLogger - INFO - Response for event server_health (id: 1770222115840272304) has status 201
+2026-02-04 08:21:55,913 - basicLogger - INFO - Response for event server_health (id: 1770222115850458559) has status 201
+2026-02-04 08:21:55,913 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115850049420) has status 201
+2026-02-04 08:21:55,915 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,920 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115811599859) has status 201
+2026-02-04 08:21:55,921 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,921 - basicLogger - INFO - Response for event server_health (id: 1770222115841096541) has status 201
+2026-02-04 08:21:55,923 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115794606796) has status 201
+2026-02-04 08:21:55,924 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,925 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115886640144) has status 201
+2026-02-04 08:21:55,925 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,928 - basicLogger - INFO - Received event server_health with a trace id of 1770222115928840566
+2026-02-04 08:21:55,931 - basicLogger - INFO - Received event server_health with a trace id of 1770222115931252094
+2026-02-04 08:21:55,936 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115840689604) has status 201
+2026-02-04 08:21:55,937 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,937 - basicLogger - INFO - Response for event server_health (id: 1770222115831331600) has status 201
+2026-02-04 08:21:55,942 - basicLogger - INFO - Received event server_health with a trace id of 1770222115942877401
+2026-02-04 08:21:55,945 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115945196732
+2026-02-04 08:21:55,949 - basicLogger - INFO - Response for event server_health (id: 1770222115849321557) has status 201
+2026-02-04 08:21:55,951 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115951939978
+2026-02-04 08:21:55,954 - basicLogger - INFO - Response for event server_health (id: 1770222115840272304) has status 201
+2026-02-04 08:21:55,958 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115958392429
+2026-02-04 08:21:55,960 - basicLogger - INFO - Response for event server_health (id: 1770222115841096541) has status 201
+2026-02-04 08:21:55,964 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115850049420) has status 201
+2026-02-04 08:21:55,964 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,966 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115966252458
+2026-02-04 08:21:55,975 - basicLogger - INFO - Received event server_health with a trace id of 1770222115975044427
+2026-02-04 08:21:55,977 - basicLogger - INFO - Response for event server_health (id: 1770222115850458559) has status 201
+2026-02-04 08:21:55,983 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222115983087105
+2026-02-04 08:21:55,983 - basicLogger - INFO - Response for event server_health (id: 1770222115931252094) has status 201
+2026-02-04 08:21:55,984 - basicLogger - INFO - Response for event server_health (id: 1770222115928840566) has status 201
+2026-02-04 08:21:55,984 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115886640144) has status 201
+2026-02-04 08:21:55,985 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,985 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115945196732) has status 201
+2026-02-04 08:21:55,986 - basicLogger - INFO - Response for event server_health (id: 1770222115942877401) has status 201
+2026-02-04 08:21:55,986 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:55,991 - basicLogger - INFO - Received event server_health with a trace id of 1770222115991902144
+2026-02-04 08:21:55,992 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115951939978) has status 201
+2026-02-04 08:21:55,992 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,029 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115958392429) has status 201
+2026-02-04 08:21:56,030 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,032 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115966252458) has status 201
+2026-02-04 08:21:56,033 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,035 - basicLogger - INFO - Response for event server_health (id: 1770222115975044427) has status 201
+2026-02-04 08:21:56,048 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115983087105) has status 201
+2026-02-04 08:21:56,048 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,056 - basicLogger - INFO - Response for event server_health (id: 1770222115991902144) has status 201
+2026-02-04 08:21:56,058 - basicLogger - INFO - Response for event server_health (id: 1770222115942877401) has status 201
+2026-02-04 08:21:56,061 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116061534230
+2026-02-04 08:21:56,063 - basicLogger - INFO - Response for event server_health (id: 1770222115931252094) has status 201
+2026-02-04 08:21:56,068 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116068890485
+2026-02-04 08:21:56,074 - basicLogger - INFO - Response for event server_health (id: 1770222115928840566) has status 201
+2026-02-04 08:21:56,074 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115945196732) has status 201
+2026-02-04 08:21:56,076 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,079 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116079616437
+2026-02-04 08:21:56,080 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115966252458) has status 201
+2026-02-04 08:21:56,081 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115951939978) has status 201
+2026-02-04 08:21:56,081 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115958392429) has status 201
+2026-02-04 08:21:56,082 - basicLogger - INFO - Response for event server_health (id: 1770222115975044427) has status 201
+2026-02-04 08:21:56,082 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,082 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,084 - basicLogger - INFO - Received event server_health with a trace id of 1770222116084044266
+2026-02-04 08:21:56,084 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,089 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116089742939
+2026-02-04 08:21:56,094 - basicLogger - INFO - Response for event player_telemetry (id: 1770222115983087105) has status 201
+2026-02-04 08:21:56,097 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,097 - basicLogger - INFO - Received event server_health with a trace id of 1770222116097272281
+2026-02-04 08:21:56,097 - basicLogger - INFO - Received event server_health with a trace id of 1770222116097496790
+2026-02-04 08:21:56,097 - basicLogger - INFO - Received event server_health with a trace id of 1770222116097684052
+2026-02-04 08:21:56,098 - basicLogger - INFO - Response for event server_health (id: 1770222115991902144) has status 201
+2026-02-04 08:21:56,105 - basicLogger - INFO - Received event server_health with a trace id of 1770222116105333606
+2026-02-04 08:21:56,108 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116108535203
+2026-02-04 08:21:56,113 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116068890485) has status 201
+2026-02-04 08:21:56,113 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,113 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116061534230) has status 201
+2026-02-04 08:21:56,115 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,122 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116079616437) has status 201
+2026-02-04 08:21:56,122 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,129 - basicLogger - INFO - Response for event server_health (id: 1770222116084044266) has status 201
+2026-02-04 08:21:56,138 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116089742939) has status 201
+2026-02-04 08:21:56,138 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,148 - basicLogger - INFO - Response for event server_health (id: 1770222116097684052) has status 201
+2026-02-04 08:21:56,151 - basicLogger - INFO - Response for event server_health (id: 1770222116105333606) has status 201
+2026-02-04 08:21:56,155 - basicLogger - INFO - Response for event server_health (id: 1770222116097272281) has status 201
+2026-02-04 08:21:56,157 - basicLogger - INFO - Response for event server_health (id: 1770222116097496790) has status 201
+2026-02-04 08:21:56,161 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116108535203) has status 201
+2026-02-04 08:21:56,163 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,165 - basicLogger - INFO - Response for event server_health (id: 1770222116084044266) has status 201
+2026-02-04 08:21:56,166 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116079616437) has status 201
+2026-02-04 08:21:56,166 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116068890485) has status 201
+2026-02-04 08:21:56,167 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116061534230) has status 201
+2026-02-04 08:21:56,170 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,168 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,168 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,170 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116170155402
+2026-02-04 08:21:56,173 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116089742939) has status 201
+2026-02-04 08:21:56,176 - basicLogger - INFO - Received event server_health with a trace id of 1770222116176938031
+2026-02-04 08:21:56,178 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,182 - basicLogger - INFO - Received event server_health with a trace id of 1770222116182700511
+2026-02-04 08:21:56,183 - basicLogger - INFO - Received event server_health with a trace id of 1770222116183516887
+2026-02-04 08:21:56,187 - basicLogger - INFO - Received event server_health with a trace id of 1770222116187847477
+2026-02-04 08:21:56,190 - basicLogger - INFO - Response for event server_health (id: 1770222116097684052) has status 201
+2026-02-04 08:21:56,192 - basicLogger - INFO - Response for event server_health (id: 1770222116105333606) has status 201
+2026-02-04 08:21:56,195 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116195923867
+2026-02-04 08:21:56,197 - basicLogger - INFO - Response for event server_health (id: 1770222116097272281) has status 201
+2026-02-04 08:21:56,220 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116220966874
+2026-02-04 08:21:56,229 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116229971467
+2026-02-04 08:21:56,236 - basicLogger - INFO - Response for event server_health (id: 1770222116097496790) has status 201
+2026-02-04 08:21:56,237 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116170155402) has status 201
+2026-02-04 08:21:56,239 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116108535203) has status 201
+2026-02-04 08:21:56,239 - basicLogger - INFO - Response for event server_health (id: 1770222116176938031) has status 201
+2026-02-04 08:21:56,239 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,240 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,241 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116241363172
+2026-02-04 08:21:56,246 - basicLogger - INFO - Received event server_health with a trace id of 1770222116246670676
+2026-02-04 08:21:56,258 - basicLogger - INFO - Response for event server_health (id: 1770222116182700511) has status 201
+2026-02-04 08:21:56,262 - basicLogger - INFO - Response for event server_health (id: 1770222116187847477) has status 201
+2026-02-04 08:21:56,263 - basicLogger - INFO - Response for event server_health (id: 1770222116183516887) has status 201
+2026-02-04 08:21:56,263 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116195923867) has status 201
+2026-02-04 08:21:56,264 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,264 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116220966874) has status 201
+2026-02-04 08:21:56,266 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,272 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116170155402) has status 201
+2026-02-04 08:21:56,272 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,274 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116229971467) has status 201
+2026-02-04 08:21:56,275 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,280 - basicLogger - INFO - Received event server_health with a trace id of 1770222116280044553
+2026-02-04 08:21:56,283 - basicLogger - INFO - Response for event server_health (id: 1770222116246670676) has status 201
+2026-02-04 08:21:56,284 - basicLogger - INFO - Response for event server_health (id: 1770222116176938031) has status 201
+2026-02-04 08:21:56,289 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116241363172) has status 201
+2026-02-04 08:21:56,291 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,291 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116291010757
+2026-02-04 08:21:56,313 - basicLogger - INFO - Response for event server_health (id: 1770222116182700511) has status 201
+2026-02-04 08:21:56,315 - basicLogger - INFO - Response for event server_health (id: 1770222116183516887) has status 201
+2026-02-04 08:21:56,319 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116319067889
+2026-02-04 08:21:56,322 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116195923867) has status 201
+2026-02-04 08:21:56,325 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116325602737
+2026-02-04 08:21:56,325 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,331 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116229971467) has status 201
+2026-02-04 08:21:56,333 - basicLogger - INFO - Response for event server_health (id: 1770222116246670676) has status 201
+2026-02-04 08:21:56,332 - basicLogger - INFO - Response for event server_health (id: 1770222116280044553) has status 201
+2026-02-04 08:21:56,334 - basicLogger - INFO - Response for event server_health (id: 1770222116187847477) has status 201
+2026-02-04 08:21:56,333 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116220966874) has status 201
+2026-02-04 08:21:56,333 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,335 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,336 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116291010757) has status 201
+2026-02-04 08:21:56,338 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116338367424
+2026-02-04 08:21:56,339 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,340 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116241363172) has status 201
+2026-02-04 08:21:56,343 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,344 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116344883869
+2026-02-04 08:21:56,345 - basicLogger - INFO - Received event server_health with a trace id of 1770222116345118005
+2026-02-04 08:21:56,358 - basicLogger - INFO - Received event server_health with a trace id of 1770222116358433002
+2026-02-04 08:21:56,360 - basicLogger - INFO - Received event server_health with a trace id of 1770222116360460913
+2026-02-04 08:21:56,364 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116319067889) has status 201
+2026-02-04 08:21:56,365 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,374 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116325602737) has status 201
+2026-02-04 08:21:56,374 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,385 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116338367424) has status 201
+2026-02-04 08:21:56,385 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,387 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116291010757) has status 201
+2026-02-04 08:21:56,387 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,390 - basicLogger - INFO - Received event server_health with a trace id of 1770222116390398702
+2026-02-04 08:21:56,391 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116344883869) has status 201
+2026-02-04 08:21:56,391 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,394 - basicLogger - INFO - Response for event server_health (id: 1770222116345118005) has status 201
+2026-02-04 08:21:56,396 - basicLogger - INFO - Response for event server_health (id: 1770222116360460913) has status 201
+2026-02-04 08:21:56,398 - basicLogger - INFO - Response for event server_health (id: 1770222116280044553) has status 201
+2026-02-04 08:21:56,402 - basicLogger - INFO - Response for event server_health (id: 1770222116358433002) has status 201
+2026-02-04 08:21:56,403 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116403876663
+2026-02-04 08:21:56,403 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116319067889) has status 201
+2026-02-04 08:21:56,405 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,411 - basicLogger - INFO - Received event server_health with a trace id of 1770222116411704965
+2026-02-04 08:21:56,411 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116325602737) has status 201
+2026-02-04 08:21:56,412 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,419 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116338367424) has status 201
+2026-02-04 08:21:56,419 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,422 - basicLogger - INFO - Received event server_health with a trace id of 1770222116422008016
+2026-02-04 08:21:56,424 - basicLogger - INFO - Received event server_health with a trace id of 1770222116424666297
+2026-02-04 08:21:56,427 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116344883869) has status 201
+2026-02-04 08:21:56,427 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,430 - basicLogger - INFO - Received event server_health with a trace id of 1770222116430657265
+2026-02-04 08:21:56,432 - basicLogger - INFO - Response for event server_health (id: 1770222116390398702) has status 201
+2026-02-04 08:21:56,436 - basicLogger - INFO - Response for event server_health (id: 1770222116360460913) has status 201
+2026-02-04 08:21:56,437 - basicLogger - INFO - Response for event server_health (id: 1770222116345118005) has status 201
+2026-02-04 08:21:56,481 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116481044142
+2026-02-04 08:21:56,481 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116481643506
+2026-02-04 08:21:56,484 - basicLogger - INFO - Response for event server_health (id: 1770222116358433002) has status 201
+2026-02-04 08:21:56,486 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116403876663) has status 201
+2026-02-04 08:21:56,488 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,489 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116489576272
+2026-02-04 08:21:56,489 - basicLogger - INFO - Response for event server_health (id: 1770222116411704965) has status 201
+2026-02-04 08:21:56,499 - basicLogger - INFO - Response for event server_health (id: 1770222116422008016) has status 201
+2026-02-04 08:21:56,502 - basicLogger - INFO - Response for event server_health (id: 1770222116424666297) has status 201
+2026-02-04 08:21:56,502 - basicLogger - INFO - Response for event server_health (id: 1770222116430657265) has status 201
+2026-02-04 08:21:56,505 - basicLogger - INFO - Response for event server_health (id: 1770222116390398702) has status 201
+2026-02-04 08:21:56,512 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116512215789
+2026-02-04 08:21:56,527 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116481044142) has status 201
+2026-02-04 08:21:56,527 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116481643506) has status 201
+2026-02-04 08:21:56,527 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,528 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,530 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116489576272) has status 201
+2026-02-04 08:21:56,531 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,539 - basicLogger - INFO - Response for event server_health (id: 1770222116422008016) has status 201
+2026-02-04 08:21:56,539 - basicLogger - INFO - Response for event server_health (id: 1770222116424666297) has status 201
+2026-02-04 08:21:56,546 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116546410925
+2026-02-04 08:21:56,546 - basicLogger - INFO - Response for event server_health (id: 1770222116411704965) has status 201
+2026-02-04 08:21:56,550 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116550807245
+2026-02-04 08:21:56,554 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116554411469
+2026-02-04 08:21:56,557 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116403876663) has status 201
+2026-02-04 08:21:56,557 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116512215789) has status 201
+2026-02-04 08:21:56,557 - basicLogger - INFO - Response for event server_health (id: 1770222116430657265) has status 201
+2026-02-04 08:21:56,557 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,558 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,566 - basicLogger - INFO - Received event server_health with a trace id of 1770222116566940072
+2026-02-04 08:21:56,567 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116567285915
+2026-02-04 08:21:56,578 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116481643506) has status 201
+2026-02-04 08:21:56,580 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116481044142) has status 201
+2026-02-04 08:21:56,580 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,580 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,581 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116546410925) has status 201
+2026-02-04 08:21:56,581 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116489576272) has status 201
+2026-02-04 08:21:56,583 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,583 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,585 - basicLogger - INFO - Received event server_health with a trace id of 1770222116585827132
+2026-02-04 08:21:56,592 - basicLogger - INFO - Received event server_health with a trace id of 1770222116592219398
+2026-02-04 08:21:56,595 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116550807245) has status 201
+2026-02-04 08:21:56,596 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116554411469) has status 201
+2026-02-04 08:21:56,596 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116512215789) has status 201
+2026-02-04 08:21:56,596 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,596 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,596 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,601 - basicLogger - INFO - Received event server_health with a trace id of 1770222116601463159
+2026-02-04 08:21:56,602 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116567285915) has status 201
+2026-02-04 08:21:56,603 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,606 - basicLogger - INFO - Response for event server_health (id: 1770222116566940072) has status 201
+2026-02-04 08:21:56,627 - basicLogger - INFO - Response for event server_health (id: 1770222116592219398) has status 201
+2026-02-04 08:21:56,629 - basicLogger - INFO - Response for event server_health (id: 1770222116585827132) has status 201
+2026-02-04 08:21:56,629 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116550807245) has status 201
+2026-02-04 08:21:56,630 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116546410925) has status 201
+2026-02-04 08:21:56,630 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,631 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,634 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116554411469) has status 201
+2026-02-04 08:21:56,634 - basicLogger - INFO - Response for event server_health (id: 1770222116601463159) has status 201
+2026-02-04 08:21:56,636 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,636 - basicLogger - INFO - Response for event server_health (id: 1770222116566940072) has status 201
+2026-02-04 08:21:56,638 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116567285915) has status 201
+2026-02-04 08:21:56,640 - basicLogger - INFO - Received event server_health with a trace id of 1770222116640253978
+2026-02-04 08:21:56,640 - basicLogger - INFO - Received event server_health with a trace id of 1770222116640451028
+2026-02-04 08:21:56,641 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,645 - basicLogger - INFO - Received event server_health with a trace id of 1770222116645369628
+2026-02-04 08:21:56,650 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116650751028
+2026-02-04 08:21:56,651 - basicLogger - INFO - Received event server_health with a trace id of 1770222116651235115
+2026-02-04 08:21:56,655 - basicLogger - INFO - Response for event server_health (id: 1770222116592219398) has status 201
+2026-02-04 08:21:56,661 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116661834063
+2026-02-04 08:21:56,665 - basicLogger - INFO - Response for event server_health (id: 1770222116585827132) has status 201
+2026-02-04 08:21:56,669 - basicLogger - INFO - Response for event server_health (id: 1770222116601463159) has status 201
+2026-02-04 08:21:56,669 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116669780713
+2026-02-04 08:21:56,672 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116672951746
+2026-02-04 08:21:56,676 - basicLogger - INFO - Response for event server_health (id: 1770222116651235115) has status 201
+2026-02-04 08:21:56,678 - basicLogger - INFO - Response for event server_health (id: 1770222116640451028) has status 201
+2026-02-04 08:21:56,682 - basicLogger - INFO - Response for event server_health (id: 1770222116645369628) has status 201
+2026-02-04 08:21:56,683 - basicLogger - INFO - Response for event server_health (id: 1770222116640253978) has status 201
+2026-02-04 08:21:56,683 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116650751028) has status 201
+2026-02-04 08:21:56,685 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,726 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116672951746) has status 201
+2026-02-04 08:21:56,727 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,729 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116661834063) has status 201
+2026-02-04 08:21:56,730 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116669780713) has status 201
+2026-02-04 08:21:56,730 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,730 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,742 - basicLogger - INFO - Response for event server_health (id: 1770222116651235115) has status 201
+2026-02-04 08:21:56,746 - basicLogger - INFO - Response for event server_health (id: 1770222116640253978) has status 201
+2026-02-04 08:21:56,750 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116750469487
+2026-02-04 08:21:56,755 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116755601468
+2026-02-04 08:21:56,758 - basicLogger - INFO - Response for event server_health (id: 1770222116640451028) has status 201
+2026-02-04 08:21:56,758 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116650751028) has status 201
+2026-02-04 08:21:56,760 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,759 - basicLogger - INFO - Response for event server_health (id: 1770222116645369628) has status 201
+2026-02-04 08:21:56,764 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116764879533
+2026-02-04 08:21:56,772 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116661834063) has status 201
+2026-02-04 08:21:56,774 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116774045399
+2026-02-04 08:21:56,774 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,774 - basicLogger - INFO - Received event server_health with a trace id of 1770222116774292847
+2026-02-04 08:21:56,782 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116672951746) has status 201
+2026-02-04 08:21:56,782 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116669780713) has status 201
+2026-02-04 08:21:56,782 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,784 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,784 - basicLogger - INFO - Received event server_health with a trace id of 1770222116784518048
+2026-02-04 08:21:56,789 - basicLogger - INFO - Received event server_health with a trace id of 1770222116789921937
+2026-02-04 08:21:56,793 - basicLogger - INFO - Received event server_health with a trace id of 1770222116793805087
+2026-02-04 08:21:56,798 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116755601468) has status 201
+2026-02-04 08:21:56,798 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,801 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116764879533) has status 201
+2026-02-04 08:21:56,801 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,802 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116750469487) has status 201
+2026-02-04 08:21:56,802 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,814 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116774045399) has status 201
+2026-02-04 08:21:56,814 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,819 - basicLogger - INFO - Response for event server_health (id: 1770222116774292847) has status 201
+2026-02-04 08:21:56,823 - basicLogger - INFO - Response for event server_health (id: 1770222116789921937) has status 201
+2026-02-04 08:21:56,827 - basicLogger - INFO - Response for event server_health (id: 1770222116784518048) has status 201
+2026-02-04 08:21:56,832 - basicLogger - INFO - Response for event server_health (id: 1770222116793805087) has status 201
+2026-02-04 08:21:56,845 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116750469487) has status 201
+2026-02-04 08:21:56,845 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,850 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116764879533) has status 201
+2026-02-04 08:21:56,851 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,853 - basicLogger - INFO - Received event server_health with a trace id of 1770222116853717361
+2026-02-04 08:21:56,855 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116774045399) has status 201
+2026-02-04 08:21:56,856 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116755601468) has status 201
+2026-02-04 08:21:56,856 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,856 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,858 - basicLogger - INFO - Response for event server_health (id: 1770222116789921937) has status 201
+2026-02-04 08:21:56,865 - basicLogger - INFO - Received event server_health with a trace id of 1770222116865501219
+2026-02-04 08:21:56,865 - basicLogger - INFO - Received event server_health with a trace id of 1770222116865776904
+2026-02-04 08:21:56,869 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116869105367
+2026-02-04 08:21:56,871 - basicLogger - INFO - Response for event server_health (id: 1770222116793805087) has status 201
+2026-02-04 08:21:56,871 - basicLogger - INFO - Response for event server_health (id: 1770222116774292847) has status 201
+2026-02-04 08:21:56,878 - basicLogger - INFO - Response for event server_health (id: 1770222116784518048) has status 201
+2026-02-04 08:21:56,885 - basicLogger - INFO - Response for event server_health (id: 1770222116853717361) has status 201
+2026-02-04 08:21:56,887 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116887205538
+2026-02-04 08:21:56,887 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116887601035
+2026-02-04 08:21:56,891 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116891811963
+2026-02-04 08:21:56,894 - basicLogger - INFO - Response for event server_health (id: 1770222116865776904) has status 201
+2026-02-04 08:21:56,905 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116869105367) has status 201
+2026-02-04 08:21:56,905 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,915 - basicLogger - INFO - Response for event server_health (id: 1770222116865501219) has status 201
+2026-02-04 08:21:56,915 - basicLogger - INFO - Response for event server_health (id: 1770222116853717361) has status 201
+2026-02-04 08:21:56,920 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116920759512
+2026-02-04 08:21:56,924 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116887601035) has status 201
+2026-02-04 08:21:56,924 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116887205538) has status 201
+2026-02-04 08:21:56,924 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,925 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,925 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116891811963) has status 201
+2026-02-04 08:21:56,926 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,927 - basicLogger - INFO - Response for event server_health (id: 1770222116865776904) has status 201
+2026-02-04 08:21:56,929 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116869105367) has status 201
+2026-02-04 08:21:56,929 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,938 - basicLogger - INFO - Received event server_health with a trace id of 1770222116938710652
+2026-02-04 08:21:56,938 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116938917583
+2026-02-04 08:21:56,941 - basicLogger - INFO - Response for event server_health (id: 1770222116865501219) has status 201
+2026-02-04 08:21:56,946 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222116946455097
+2026-02-04 08:21:56,994 - basicLogger - INFO - Response for event server_health (id: 1770222116938710652) has status 201
+2026-02-04 08:21:56,994 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116887205538) has status 201
+2026-02-04 08:21:56,994 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116891811963) has status 201
+2026-02-04 08:21:56,995 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116920759512) has status 201
+2026-02-04 08:21:56,995 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,996 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:56,996 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,002 - basicLogger - INFO - Received event server_health with a trace id of 1770222117002248497
+2026-02-04 08:21:57,008 - basicLogger - INFO - Received event server_health with a trace id of 1770222117008124510
+2026-02-04 08:21:57,008 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116887601035) has status 201
+2026-02-04 08:21:57,008 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116938917583) has status 201
+2026-02-04 08:21:57,009 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116946455097) has status 201
+2026-02-04 08:21:57,009 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,010 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,010 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,017 - basicLogger - INFO - Received event server_health with a trace id of 1770222117017750680
+2026-02-04 08:21:57,031 - basicLogger - INFO - Response for event server_health (id: 1770222116938710652) has status 201
+2026-02-04 08:21:57,037 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117037139100
+2026-02-04 08:21:57,040 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116920759512) has status 201
+2026-02-04 08:21:57,040 - basicLogger - INFO - Response for event server_health (id: 1770222117002248497) has status 201
+2026-02-04 08:21:57,041 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,043 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116938917583) has status 201
+2026-02-04 08:21:57,044 - basicLogger - INFO - Response for event player_telemetry (id: 1770222116946455097) has status 201
+2026-02-04 08:21:57,043 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,044 - basicLogger - INFO - Response for event server_health (id: 1770222117008124510) has status 201
+2026-02-04 08:21:57,045 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,046 - basicLogger - INFO - Received event server_health with a trace id of 1770222117046043784
+2026-02-04 08:21:57,049 - basicLogger - INFO - Response for event server_health (id: 1770222117017750680) has status 201
+2026-02-04 08:21:57,051 - basicLogger - INFO - Received event server_health with a trace id of 1770222117051848746
+2026-02-04 08:21:57,053 - basicLogger - INFO - Received event server_health with a trace id of 1770222117053797553
+2026-02-04 08:21:57,075 - basicLogger - INFO - Response for event server_health (id: 1770222117002248497) has status 201
+2026-02-04 08:21:57,078 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117078096882
+2026-02-04 08:21:57,079 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117037139100) has status 201
+2026-02-04 08:21:57,079 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,080 - basicLogger - INFO - Response for event server_health (id: 1770222117046043784) has status 201
+2026-02-04 08:21:57,083 - basicLogger - INFO - Response for event server_health (id: 1770222117008124510) has status 201
+2026-02-04 08:21:57,087 - basicLogger - INFO - Response for event server_health (id: 1770222117017750680) has status 201
+2026-02-04 08:21:57,089 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117089306851
+2026-02-04 08:21:57,091 - basicLogger - INFO - Response for event server_health (id: 1770222117051848746) has status 201
+2026-02-04 08:21:57,095 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117095208961
+2026-02-04 08:21:57,096 - basicLogger - INFO - Response for event server_health (id: 1770222117053797553) has status 201
+2026-02-04 08:21:57,113 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117037139100) has status 201
+2026-02-04 08:21:57,113 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,121 - basicLogger - INFO - Received event server_health with a trace id of 1770222117121346772
+2026-02-04 08:21:57,126 - basicLogger - INFO - Response for event server_health (id: 1770222117046043784) has status 201
+2026-02-04 08:21:57,130 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117130385324
+2026-02-04 08:21:57,134 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117089306851) has status 201
+2026-02-04 08:21:57,134 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,135 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117078096882) has status 201
+2026-02-04 08:21:57,135 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117095208961) has status 201
+2026-02-04 08:21:57,135 - basicLogger - INFO - Response for event server_health (id: 1770222117051848746) has status 201
+2026-02-04 08:21:57,135 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,135 - basicLogger - INFO - Response for event server_health (id: 1770222117053797553) has status 201
+2026-02-04 08:21:57,135 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,141 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117141007142
+2026-02-04 08:21:57,143 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117142996855
+2026-02-04 08:21:57,163 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117130385324) has status 201
+2026-02-04 08:21:57,163 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,167 - basicLogger - INFO - Response for event server_health (id: 1770222117121346772) has status 201
+2026-02-04 08:21:57,169 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117095208961) has status 201
+2026-02-04 08:21:57,169 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,175 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117089306851) has status 201
+2026-02-04 08:21:57,175 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117078096882) has status 201
+2026-02-04 08:21:57,175 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,175 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,176 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117141007142) has status 201
+2026-02-04 08:21:57,177 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117142996855) has status 201
+2026-02-04 08:21:57,178 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,178 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,182 - basicLogger - INFO - Received event server_health with a trace id of 1770222117182947760
+2026-02-04 08:21:57,183 - basicLogger - INFO - Received event server_health with a trace id of 1770222117183693839
+2026-02-04 08:21:57,185 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117130385324) has status 201
+2026-02-04 08:21:57,185 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,188 - basicLogger - INFO - Received event server_health with a trace id of 1770222117188592802
+2026-02-04 08:21:57,190 - basicLogger - INFO - Response for event server_health (id: 1770222117121346772) has status 201
+2026-02-04 08:21:57,194 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117194139372
+2026-02-04 08:21:57,214 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117141007142) has status 201
+2026-02-04 08:21:57,214 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,217 - basicLogger - INFO - Response for event server_health (id: 1770222117182947760) has status 201
+2026-02-04 08:21:57,218 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117142996855) has status 201
+2026-02-04 08:21:57,218 - basicLogger - INFO - Response for event server_health (id: 1770222117188592802) has status 201
+2026-02-04 08:21:57,220 - basicLogger - INFO - Received event server_health with a trace id of 1770222117220050260
+2026-02-04 08:21:57,220 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,221 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117194139372) has status 201
+2026-02-04 08:21:57,222 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,223 - basicLogger - INFO - Response for event server_health (id: 1770222117183693839) has status 201
+2026-02-04 08:21:57,243 - basicLogger - INFO - Response for event server_health (id: 1770222117188592802) has status 201
+2026-02-04 08:21:57,246 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117246162708
+2026-02-04 08:21:57,247 - basicLogger - INFO - Response for event server_health (id: 1770222117220050260) has status 201
+2026-02-04 08:21:57,250 - basicLogger - INFO - Response for event server_health (id: 1770222117183693839) has status 201
+2026-02-04 08:21:57,250 - basicLogger - INFO - Response for event server_health (id: 1770222117182947760) has status 201
+2026-02-04 08:21:57,253 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117194139372) has status 201
+2026-02-04 08:21:57,253 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,255 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117254998799
+2026-02-04 08:21:57,256 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117256524197
+2026-02-04 08:21:57,294 - basicLogger - INFO - Received event server_health with a trace id of 1770222117294961507
+2026-02-04 08:21:57,309 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117246162708) has status 201
+2026-02-04 08:21:57,309 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,314 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117254998799) has status 201
+2026-02-04 08:21:57,314 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117256524197) has status 201
+2026-02-04 08:21:57,314 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,314 - basicLogger - INFO - Response for event server_health (id: 1770222117220050260) has status 201
+2026-02-04 08:21:57,314 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,317 - basicLogger - INFO - Response for event server_health (id: 1770222117294961507) has status 201
+2026-02-04 08:21:57,321 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117321721635
+2026-02-04 08:21:57,332 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117246162708) has status 201
+2026-02-04 08:21:57,332 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,338 - basicLogger - INFO - Received event server_health with a trace id of 1770222117338201557
+2026-02-04 08:21:57,341 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117256524197) has status 201
+2026-02-04 08:21:57,341 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,346 - basicLogger - INFO - Received event server_health with a trace id of 1770222117346119934
+2026-02-04 08:21:57,349 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117254998799) has status 201
+2026-02-04 08:21:57,349 - basicLogger - INFO - Response for event server_health (id: 1770222117294961507) has status 201
+2026-02-04 08:21:57,349 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,350 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117321721635) has status 201
+2026-02-04 08:21:57,351 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,353 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117353650213
+2026-02-04 08:21:57,358 - basicLogger - INFO - Received event server_health with a trace id of 1770222117358812299
+2026-02-04 08:21:57,360 - basicLogger - INFO - Response for event server_health (id: 1770222117338201557) has status 201
+2026-02-04 08:21:57,368 - basicLogger - INFO - Response for event server_health (id: 1770222117346119934) has status 201
+2026-02-04 08:21:57,372 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117321721635) has status 201
+2026-02-04 08:21:57,372 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,380 - basicLogger - INFO - Response for event server_health (id: 1770222117358812299) has status 201
+2026-02-04 08:21:57,382 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117353650213) has status 201
+2026-02-04 08:21:57,382 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,384 - basicLogger - INFO - Response for event server_health (id: 1770222117338201557) has status 201
+2026-02-04 08:21:57,387 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117387810884
+2026-02-04 08:21:57,389 - basicLogger - INFO - Response for event server_health (id: 1770222117346119934) has status 201
+2026-02-04 08:21:57,391 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117391919534
+2026-02-04 08:21:57,400 - basicLogger - INFO - Response for event server_health (id: 1770222117358812299) has status 201
+2026-02-04 08:21:57,402 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117353650213) has status 201
+2026-02-04 08:21:57,402 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,405 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117405015928
+2026-02-04 08:21:57,406 - basicLogger - INFO - Received event server_health with a trace id of 1770222117406888462
+2026-02-04 08:21:57,414 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117387810884) has status 201
+2026-02-04 08:21:57,415 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,417 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117391919534) has status 201
+2026-02-04 08:21:57,417 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,431 - basicLogger - INFO - Response for event server_health (id: 1770222117406888462) has status 201
+2026-02-04 08:21:57,431 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117405015928) has status 201
+2026-02-04 08:21:57,431 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,433 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117387810884) has status 201
+2026-02-04 08:21:57,433 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,435 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117391919534) has status 201
+2026-02-04 08:21:57,436 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,438 - basicLogger - INFO - Received event server_health with a trace id of 1770222117438224394
+2026-02-04 08:21:57,455 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117405015928) has status 201
+2026-02-04 08:21:57,455 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,457 - basicLogger - INFO - Response for event server_health (id: 1770222117438224394) has status 201
+2026-02-04 08:21:57,458 - basicLogger - INFO - Response for event server_health (id: 1770222117406888462) has status 201
+2026-02-04 08:21:57,460 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117460522278
+2026-02-04 08:21:57,473 - basicLogger - INFO - Response for event server_health (id: 1770222117438224394) has status 201
+2026-02-04 08:21:57,476 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770222117476082535
+2026-02-04 08:21:57,477 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117460522278) has status 201
+2026-02-04 08:21:57,477 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,494 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117476082535) has status 201
+2026-02-04 08:21:57,495 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,495 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117460522278) has status 201
+2026-02-04 08:21:57,495 - basicLogger - INFO - Storage response body: 
+2026-02-04 08:21:57,511 - basicLogger - INFO - Response for event player_telemetry (id: 1770222117476082535) has status 201
+2026-02-04 08:21:57,511 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:22,853 - basicLogger - INFO - Received event server_health with a trace id of 1770228682853447230
+2026-02-04 10:11:22,901 - basicLogger - INFO - Response for event server_health (id: 1770228682853447230) has status 201
+2026-02-04 10:11:22,917 - basicLogger - INFO - Response for event server_health (id: 1770228682853447230) has status 201
+2026-02-04 10:11:22,920 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228682920765544
+2026-02-04 10:11:22,937 - basicLogger - INFO - Response for event player_telemetry (id: 1770228682920765544) has status 201
+2026-02-04 10:11:22,937 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:22,952 - basicLogger - INFO - Received event server_health with a trace id of 1770228682952080313
+2026-02-04 10:11:22,954 - basicLogger - INFO - Response for event player_telemetry (id: 1770228682920765544) has status 201
+2026-02-04 10:11:22,954 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:22,956 - basicLogger - INFO - Received event server_health with a trace id of 1770228682956920923
+2026-02-04 10:11:22,970 - basicLogger - INFO - Response for event server_health (id: 1770228682952080313) has status 201
+2026-02-04 10:11:22,973 - basicLogger - INFO - Response for event server_health (id: 1770228682956920923) has status 201
+2026-02-04 10:11:22,991 - basicLogger - INFO - Response for event server_health (id: 1770228682952080313) has status 201
+2026-02-04 10:11:22,993 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228682993722183
+2026-02-04 10:11:22,994 - basicLogger - INFO - Response for event server_health (id: 1770228682956920923) has status 201
+2026-02-04 10:11:22,997 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228682997663792
+2026-02-04 10:11:23,011 - basicLogger - INFO - Response for event player_telemetry (id: 1770228682993722183) has status 201
+2026-02-04 10:11:23,011 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,015 - basicLogger - INFO - Response for event player_telemetry (id: 1770228682997663792) has status 201
+2026-02-04 10:11:23,015 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,029 - basicLogger - INFO - Response for event player_telemetry (id: 1770228682993722183) has status 201
+2026-02-04 10:11:23,029 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,032 - basicLogger - INFO - Received event server_health with a trace id of 1770228683032194396
+2026-02-04 10:11:23,033 - basicLogger - INFO - Response for event player_telemetry (id: 1770228682997663792) has status 201
+2026-02-04 10:11:23,033 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,036 - basicLogger - INFO - Received event server_health with a trace id of 1770228683036317094
+2026-02-04 10:11:23,049 - basicLogger - INFO - Response for event server_health (id: 1770228683032194396) has status 201
+2026-02-04 10:11:23,065 - basicLogger - INFO - Response for event server_health (id: 1770228683036317094) has status 201
+2026-02-04 10:11:23,066 - basicLogger - INFO - Received event server_health with a trace id of 1770228683066099043
+2026-02-04 10:11:23,086 - basicLogger - INFO - Response for event server_health (id: 1770228683066099043) has status 201
+2026-02-04 10:11:23,091 - basicLogger - INFO - Response for event server_health (id: 1770228683032194396) has status 201
+2026-02-04 10:11:23,091 - basicLogger - INFO - Response for event server_health (id: 1770228683036317094) has status 201
+2026-02-04 10:11:23,095 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683095680129
+2026-02-04 10:11:23,096 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683096464168
+2026-02-04 10:11:23,105 - basicLogger - INFO - Response for event server_health (id: 1770228683066099043) has status 201
+2026-02-04 10:11:23,108 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683108108741
+2026-02-04 10:11:23,119 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683096464168) has status 201
+2026-02-04 10:11:23,119 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,119 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683095680129) has status 201
+2026-02-04 10:11:23,120 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,126 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683108108741) has status 201
+2026-02-04 10:11:23,126 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,143 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683095680129) has status 201
+2026-02-04 10:11:23,143 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,145 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683096464168) has status 201
+2026-02-04 10:11:23,145 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,148 - basicLogger - INFO - Received event server_health with a trace id of 1770228683148179599
+2026-02-04 10:11:23,149 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683108108741) has status 201
+2026-02-04 10:11:23,150 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,152 - basicLogger - INFO - Received event server_health with a trace id of 1770228683152235539
+2026-02-04 10:11:23,152 - basicLogger - INFO - Received event server_health with a trace id of 1770228683152606929
+2026-02-04 10:11:23,154 - basicLogger - INFO - Received event server_health with a trace id of 1770228683154213443
+2026-02-04 10:11:23,172 - basicLogger - INFO - Response for event server_health (id: 1770228683148179599) has status 201
+2026-02-04 10:11:23,173 - basicLogger - INFO - Response for event server_health (id: 1770228683152606929) has status 201
+2026-02-04 10:11:23,181 - basicLogger - INFO - Response for event server_health (id: 1770228683154213443) has status 201
+2026-02-04 10:11:23,183 - basicLogger - INFO - Response for event server_health (id: 1770228683152235539) has status 201
+2026-02-04 10:11:23,191 - basicLogger - INFO - Response for event server_health (id: 1770228683152606929) has status 201
+2026-02-04 10:11:23,194 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683194881474
+2026-02-04 10:11:23,196 - basicLogger - INFO - Response for event server_health (id: 1770228683148179599) has status 201
+2026-02-04 10:11:23,199 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683199123199
+2026-02-04 10:11:23,203 - basicLogger - INFO - Response for event server_health (id: 1770228683154213443) has status 201
+2026-02-04 10:11:23,206 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683206905515
+2026-02-04 10:11:23,207 - basicLogger - INFO - Response for event server_health (id: 1770228683152235539) has status 201
+2026-02-04 10:11:23,211 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683211386291
+2026-02-04 10:11:23,216 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683194881474) has status 201
+2026-02-04 10:11:23,216 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,218 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683199123199) has status 201
+2026-02-04 10:11:23,218 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,242 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683206905515) has status 201
+2026-02-04 10:11:23,242 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,250 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683211386291) has status 201
+2026-02-04 10:11:23,251 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,252 - basicLogger - INFO - Received event server_health with a trace id of 1770228683252315836
+2026-02-04 10:11:23,255 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683199123199) has status 201
+2026-02-04 10:11:23,255 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683194881474) has status 201
+2026-02-04 10:11:23,255 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,255 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,259 - basicLogger - INFO - Received event server_health with a trace id of 1770228683259238184
+2026-02-04 10:11:23,261 - basicLogger - INFO - Received event server_health with a trace id of 1770228683261383484
+2026-02-04 10:11:23,265 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683206905515) has status 201
+2026-02-04 10:11:23,265 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,268 - basicLogger - INFO - Received event server_health with a trace id of 1770228683268630031
+2026-02-04 10:11:23,273 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683211386291) has status 201
+2026-02-04 10:11:23,273 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,277 - basicLogger - INFO - Received event server_health with a trace id of 1770228683277367995
+2026-02-04 10:11:23,280 - basicLogger - INFO - Response for event server_health (id: 1770228683252315836) has status 201
+2026-02-04 10:11:23,291 - basicLogger - INFO - Response for event server_health (id: 1770228683259238184) has status 201
+2026-02-04 10:11:23,297 - basicLogger - INFO - Response for event server_health (id: 1770228683261383484) has status 201
+2026-02-04 10:11:23,299 - basicLogger - INFO - Response for event server_health (id: 1770228683268630031) has status 201
+2026-02-04 10:11:23,305 - basicLogger - INFO - Response for event server_health (id: 1770228683277367995) has status 201
+2026-02-04 10:11:23,311 - basicLogger - INFO - Response for event server_health (id: 1770228683252315836) has status 201
+2026-02-04 10:11:23,314 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683314349058
+2026-02-04 10:11:23,319 - basicLogger - INFO - Response for event server_health (id: 1770228683259238184) has status 201
+2026-02-04 10:11:23,323 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683323417461
+2026-02-04 10:11:23,324 - basicLogger - INFO - Response for event server_health (id: 1770228683261383484) has status 201
+2026-02-04 10:11:23,328 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683328740256
+2026-02-04 10:11:23,328 - basicLogger - INFO - Response for event server_health (id: 1770228683268630031) has status 201
+2026-02-04 10:11:23,333 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683333026893
+2026-02-04 10:11:23,334 - basicLogger - INFO - Response for event server_health (id: 1770228683277367995) has status 201
+2026-02-04 10:11:23,337 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683337213318
+2026-02-04 10:11:23,338 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683314349058) has status 201
+2026-02-04 10:11:23,338 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,345 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683323417461) has status 201
+2026-02-04 10:11:23,345 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,352 - basicLogger - INFO - Received event server_health with a trace id of 1770228683352620156
+2026-02-04 10:11:23,353 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683328740256) has status 201
+2026-02-04 10:11:23,353 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,356 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683333026893) has status 201
+2026-02-04 10:11:23,356 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,360 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683337213318) has status 201
+2026-02-04 10:11:23,360 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,363 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683314349058) has status 201
+2026-02-04 10:11:23,364 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,368 - basicLogger - INFO - Received event server_health with a trace id of 1770228683368284702
+2026-02-04 10:11:23,369 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683323417461) has status 201
+2026-02-04 10:11:23,369 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,389 - basicLogger - INFO - Received event server_health with a trace id of 1770228683389689088
+2026-02-04 10:11:23,403 - basicLogger - INFO - Response for event server_health (id: 1770228683352620156) has status 201
+2026-02-04 10:11:23,408 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683328740256) has status 201
+2026-02-04 10:11:23,408 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,410 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683337213318) has status 201
+2026-02-04 10:11:23,412 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683333026893) has status 201
+2026-02-04 10:11:23,412 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,413 - basicLogger - INFO - Received event server_health with a trace id of 1770228683413653811
+2026-02-04 10:11:23,413 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,418 - basicLogger - INFO - Response for event server_health (id: 1770228683389689088) has status 201
+2026-02-04 10:11:23,420 - basicLogger - INFO - Received event server_health with a trace id of 1770228683420231577
+2026-02-04 10:11:23,420 - basicLogger - INFO - Received event server_health with a trace id of 1770228683420491661
+2026-02-04 10:11:23,420 - basicLogger - INFO - Response for event server_health (id: 1770228683368284702) has status 201
+2026-02-04 10:11:23,430 - basicLogger - INFO - Response for event server_health (id: 1770228683352620156) has status 201
+2026-02-04 10:11:23,434 - basicLogger - INFO - Response for event server_health (id: 1770228683413653811) has status 201
+2026-02-04 10:11:23,434 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683434387520
+2026-02-04 10:11:23,448 - basicLogger - INFO - Response for event server_health (id: 1770228683368284702) has status 201
+2026-02-04 10:11:23,453 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683453484255
+2026-02-04 10:11:23,453 - basicLogger - INFO - Received event server_health with a trace id of 1770228683453726257
+2026-02-04 10:11:23,458 - basicLogger - INFO - Response for event server_health (id: 1770228683420231577) has status 201
+2026-02-04 10:11:23,458 - basicLogger - INFO - Response for event server_health (id: 1770228683420491661) has status 201
+2026-02-04 10:11:23,459 - basicLogger - INFO - Response for event server_health (id: 1770228683389689088) has status 201
+2026-02-04 10:11:23,461 - basicLogger - INFO - Response for event server_health (id: 1770228683413653811) has status 201
+2026-02-04 10:11:23,463 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683463719927
+2026-02-04 10:11:23,464 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683434387520) has status 201
+2026-02-04 10:11:23,465 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,473 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683473835194
+2026-02-04 10:11:23,491 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683453484255) has status 201
+2026-02-04 10:11:23,491 - basicLogger - INFO - Response for event server_health (id: 1770228683420231577) has status 201
+2026-02-04 10:11:23,491 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,493 - basicLogger - INFO - Response for event server_health (id: 1770228683453726257) has status 201
+2026-02-04 10:11:23,495 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683495854789
+2026-02-04 10:11:23,500 - basicLogger - INFO - Response for event server_health (id: 1770228683420491661) has status 201
+2026-02-04 10:11:23,501 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683473835194) has status 201
+2026-02-04 10:11:23,501 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683434387520) has status 201
+2026-02-04 10:11:23,502 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,502 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683463719927) has status 201
+2026-02-04 10:11:23,502 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,504 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683504221218
+2026-02-04 10:11:23,504 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,510 - basicLogger - INFO - Received event server_health with a trace id of 1770228683510917085
+2026-02-04 10:11:23,526 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683453484255) has status 201
+2026-02-04 10:11:23,526 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,529 - basicLogger - INFO - Received event server_health with a trace id of 1770228683529343941
+2026-02-04 10:11:23,530 - basicLogger - INFO - Response for event server_health (id: 1770228683453726257) has status 201
+2026-02-04 10:11:23,533 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683533491149
+2026-02-04 10:11:23,535 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683495854789) has status 201
+2026-02-04 10:11:23,535 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,535 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683473835194) has status 201
+2026-02-04 10:11:23,537 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,538 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683504221218) has status 201
+2026-02-04 10:11:23,538 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,544 - basicLogger - INFO - Received event server_health with a trace id of 1770228683544737274
+2026-02-04 10:11:23,546 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683463719927) has status 201
+2026-02-04 10:11:23,547 - basicLogger - INFO - Response for event server_health (id: 1770228683510917085) has status 201
+2026-02-04 10:11:23,547 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,582 - basicLogger - INFO - Received event server_health with a trace id of 1770228683582825195
+2026-02-04 10:11:23,588 - basicLogger - INFO - Received event server_health with a trace id of 1770228683588828661
+2026-02-04 10:11:23,591 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683533491149) has status 201
+2026-02-04 10:11:23,592 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,592 - basicLogger - INFO - Response for event server_health (id: 1770228683529343941) has status 201
+2026-02-04 10:11:23,592 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683495854789) has status 201
+2026-02-04 10:11:23,595 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,601 - basicLogger - INFO - Received event server_health with a trace id of 1770228683601780617
+2026-02-04 10:11:23,605 - basicLogger - INFO - Response for event server_health (id: 1770228683544737274) has status 201
+2026-02-04 10:11:23,605 - basicLogger - INFO - Response for event server_health (id: 1770228683510917085) has status 201
+2026-02-04 10:11:23,612 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683504221218) has status 201
+2026-02-04 10:11:23,612 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683612421413
+2026-02-04 10:11:23,613 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,619 - basicLogger - INFO - Received event server_health with a trace id of 1770228683619787416
+2026-02-04 10:11:23,622 - basicLogger - INFO - Response for event server_health (id: 1770228683582825195) has status 201
+2026-02-04 10:11:23,637 - basicLogger - INFO - Response for event server_health (id: 1770228683588828661) has status 201
+2026-02-04 10:11:23,639 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683533491149) has status 201
+2026-02-04 10:11:23,639 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,640 - basicLogger - INFO - Response for event server_health (id: 1770228683529343941) has status 201
+2026-02-04 10:11:23,645 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683645969818
+2026-02-04 10:11:23,646 - basicLogger - INFO - Received event server_health with a trace id of 1770228683646195464
+2026-02-04 10:11:23,652 - basicLogger - INFO - Received event server_health with a trace id of 1770228683652134015
+2026-02-04 10:11:23,654 - basicLogger - INFO - Response for event server_health (id: 1770228683601780617) has status 201
+2026-02-04 10:11:23,655 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683612421413) has status 201
+2026-02-04 10:11:23,656 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,659 - basicLogger - INFO - Response for event server_health (id: 1770228683582825195) has status 201
+2026-02-04 10:11:23,656 - basicLogger - INFO - Response for event server_health (id: 1770228683619787416) has status 201
+2026-02-04 10:11:23,662 - basicLogger - INFO - Response for event server_health (id: 1770228683544737274) has status 201
+2026-02-04 10:11:23,665 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683665099447
+2026-02-04 10:11:23,676 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683676336252
+2026-02-04 10:11:23,679 - basicLogger - INFO - Response for event server_health (id: 1770228683588828661) has status 201
+2026-02-04 10:11:23,684 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683684645675
+2026-02-04 10:11:23,695 - basicLogger - INFO - Response for event server_health (id: 1770228683646195464) has status 201
+2026-02-04 10:11:23,704 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683645969818) has status 201
+2026-02-04 10:11:23,705 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,711 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683612421413) has status 201
+2026-02-04 10:11:23,712 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,713 - basicLogger - INFO - Response for event server_health (id: 1770228683601780617) has status 201
+2026-02-04 10:11:23,737 - basicLogger - INFO - Received event server_health with a trace id of 1770228683737566274
+2026-02-04 10:11:23,737 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683737852243
+2026-02-04 10:11:23,740 - basicLogger - INFO - Response for event server_health (id: 1770228683652134015) has status 201
+2026-02-04 10:11:23,741 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683665099447) has status 201
+2026-02-04 10:11:23,743 - basicLogger - INFO - Response for event server_health (id: 1770228683619787416) has status 201
+2026-02-04 10:11:23,744 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683676336252) has status 201
+2026-02-04 10:11:23,742 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,743 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683684645675) has status 201
+2026-02-04 10:11:23,744 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,746 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,756 - basicLogger - INFO - Received event server_health with a trace id of 1770228683756074028
+2026-02-04 10:11:23,756 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683756395252
+2026-02-04 10:11:23,767 - basicLogger - INFO - Response for event server_health (id: 1770228683646195464) has status 201
+2026-02-04 10:11:23,768 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683645969818) has status 201
+2026-02-04 10:11:23,769 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,773 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683773129015
+2026-02-04 10:11:23,776 - basicLogger - INFO - Received event server_health with a trace id of 1770228683776527817
+2026-02-04 10:11:23,789 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683684645675) has status 201
+2026-02-04 10:11:23,790 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,793 - basicLogger - INFO - Received event server_health with a trace id of 1770228683793200222
+2026-02-04 10:11:23,795 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683665099447) has status 201
+2026-02-04 10:11:23,795 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,797 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683737852243) has status 201
+2026-02-04 10:11:23,798 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,800 - basicLogger - INFO - Received event server_health with a trace id of 1770228683800563286
+2026-02-04 10:11:23,804 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683676336252) has status 201
+2026-02-04 10:11:23,805 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,804 - basicLogger - INFO - Response for event server_health (id: 1770228683737566274) has status 201
+2026-02-04 10:11:23,808 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683756395252) has status 201
+2026-02-04 10:11:23,809 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,811 - basicLogger - INFO - Response for event server_health (id: 1770228683756074028) has status 201
+2026-02-04 10:11:23,815 - basicLogger - INFO - Response for event server_health (id: 1770228683652134015) has status 201
+2026-02-04 10:11:23,818 - basicLogger - INFO - Received event server_health with a trace id of 1770228683818345524
+2026-02-04 10:11:23,822 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683773129015) has status 201
+2026-02-04 10:11:23,822 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,825 - basicLogger - INFO - Response for event server_health (id: 1770228683776527817) has status 201
+2026-02-04 10:11:23,829 - basicLogger - INFO - Response for event server_health (id: 1770228683793200222) has status 201
+2026-02-04 10:11:23,838 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683838946839
+2026-02-04 10:11:23,851 - basicLogger - INFO - Response for event server_health (id: 1770228683800563286) has status 201
+2026-02-04 10:11:23,860 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683756395252) has status 201
+2026-02-04 10:11:23,860 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,865 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683737852243) has status 201
+2026-02-04 10:11:23,865 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,866 - basicLogger - INFO - Received event server_health with a trace id of 1770228683866941958
+2026-02-04 10:11:23,874 - basicLogger - INFO - Received event server_health with a trace id of 1770228683874629527
+2026-02-04 10:11:23,877 - basicLogger - INFO - Response for event server_health (id: 1770228683737566274) has status 201
+2026-02-04 10:11:23,884 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683884903521
+2026-02-04 10:11:23,935 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683773129015) has status 201
+2026-02-04 10:11:23,936 - basicLogger - INFO - Response for event server_health (id: 1770228683800563286) has status 201
+2026-02-04 10:11:23,936 - basicLogger - INFO - Response for event server_health (id: 1770228683776527817) has status 201
+2026-02-04 10:11:23,937 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,939 - basicLogger - INFO - Response for event server_health (id: 1770228683818345524) has status 201
+2026-02-04 10:11:23,942 - basicLogger - INFO - Response for event server_health (id: 1770228683756074028) has status 201
+2026-02-04 10:11:23,945 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683838946839) has status 201
+2026-02-04 10:11:23,941 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683941784761
+2026-02-04 10:11:23,945 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,949 - basicLogger - INFO - Response for event server_health (id: 1770228683793200222) has status 201
+2026-02-04 10:11:23,950 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683950456227
+2026-02-04 10:11:23,951 - basicLogger - INFO - Received event server_health with a trace id of 1770228683951152072
+2026-02-04 10:11:23,961 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683961289554
+2026-02-04 10:11:23,961 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683961041281
+2026-02-04 10:11:23,964 - basicLogger - INFO - Response for event server_health (id: 1770228683866941958) has status 201
+2026-02-04 10:11:23,967 - basicLogger - INFO - Response for event server_health (id: 1770228683874629527) has status 201
+2026-02-04 10:11:23,977 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683884903521) has status 201
+2026-02-04 10:11:23,979 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:23,983 - basicLogger - INFO - Response for event server_health (id: 1770228683818345524) has status 201
+2026-02-04 10:11:23,986 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228683986575791
+2026-02-04 10:11:23,994 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683941784761) has status 201
+2026-02-04 10:11:23,994 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,004 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683838946839) has status 201
+2026-02-04 10:11:24,004 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683950456227) has status 201
+2026-02-04 10:11:24,004 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,004 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,009 - basicLogger - INFO - Received event server_health with a trace id of 1770228684009056622
+2026-02-04 10:11:24,011 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683961289554) has status 201
+2026-02-04 10:11:24,011 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,014 - basicLogger - INFO - Response for event server_health (id: 1770228683866941958) has status 201
+2026-02-04 10:11:24,018 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683961041281) has status 201
+2026-02-04 10:11:24,019 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684019730338
+2026-02-04 10:11:24,020 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,025 - basicLogger - INFO - Response for event server_health (id: 1770228683951152072) has status 201
+2026-02-04 10:11:24,026 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683884903521) has status 201
+2026-02-04 10:11:24,027 - basicLogger - INFO - Response for event server_health (id: 1770228683874629527) has status 201
+2026-02-04 10:11:24,026 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683986575791) has status 201
+2026-02-04 10:11:24,027 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,029 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,033 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683941784761) has status 201
+2026-02-04 10:11:24,033 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,036 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684036509082
+2026-02-04 10:11:24,044 - basicLogger - INFO - Received event server_health with a trace id of 1770228684044452017
+2026-02-04 10:11:24,045 - basicLogger - INFO - Received event server_health with a trace id of 1770228684045366369
+2026-02-04 10:11:24,050 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683961289554) has status 201
+2026-02-04 10:11:24,050 - basicLogger - INFO - Response for event server_health (id: 1770228684009056622) has status 201
+2026-02-04 10:11:24,050 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,056 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683950456227) has status 201
+2026-02-04 10:11:24,059 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,059 - basicLogger - INFO - Received event server_health with a trace id of 1770228684059545468
+2026-02-04 10:11:24,065 - basicLogger - INFO - Received event server_health with a trace id of 1770228684065606389
+2026-02-04 10:11:24,070 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683961041281) has status 201
+2026-02-04 10:11:24,071 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,071 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684019730338) has status 201
+2026-02-04 10:11:24,072 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,073 - basicLogger - INFO - Response for event server_health (id: 1770228683951152072) has status 201
+2026-02-04 10:11:24,076 - basicLogger - INFO - Received event server_health with a trace id of 1770228684076906864
+2026-02-04 10:11:24,082 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684082279498
+2026-02-04 10:11:24,082 - basicLogger - INFO - Response for event player_telemetry (id: 1770228683986575791) has status 201
+2026-02-04 10:11:24,084 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,089 - basicLogger - INFO - Received event server_health with a trace id of 1770228684089712459
+2026-02-04 10:11:24,092 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684036509082) has status 201
+2026-02-04 10:11:24,093 - basicLogger - INFO - Response for event server_health (id: 1770228684044452017) has status 201
+2026-02-04 10:11:24,093 - basicLogger - INFO - Response for event server_health (id: 1770228684009056622) has status 201
+2026-02-04 10:11:24,094 - basicLogger - INFO - Response for event server_health (id: 1770228684045366369) has status 201
+2026-02-04 10:11:24,094 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,100 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684100173928
+2026-02-04 10:11:24,101 - basicLogger - INFO - Response for event server_health (id: 1770228684059545468) has status 201
+2026-02-04 10:11:24,108 - basicLogger - INFO - Response for event server_health (id: 1770228684065606389) has status 201
+2026-02-04 10:11:24,137 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684019730338) has status 201
+2026-02-04 10:11:24,138 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,140 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684082279498) has status 201
+2026-02-04 10:11:24,140 - basicLogger - INFO - Response for event server_health (id: 1770228684076906864) has status 201
+2026-02-04 10:11:24,142 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,142 - basicLogger - INFO - Received event server_health with a trace id of 1770228684142572350
+2026-02-04 10:11:24,146 - basicLogger - INFO - Response for event server_health (id: 1770228684089712459) has status 201
+2026-02-04 10:11:24,157 - basicLogger - INFO - Response for event server_health (id: 1770228684059545468) has status 201
+2026-02-04 10:11:24,160 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684160233534
+2026-02-04 10:11:24,168 - basicLogger - INFO - Response for event server_health (id: 1770228684044452017) has status 201
+2026-02-04 10:11:24,173 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684036509082) has status 201
+2026-02-04 10:11:24,173 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684173621002
+2026-02-04 10:11:24,174 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,175 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684100173928) has status 201
+2026-02-04 10:11:24,176 - basicLogger - INFO - Response for event server_health (id: 1770228684045366369) has status 201
+2026-02-04 10:11:24,177 - basicLogger - INFO - Response for event server_health (id: 1770228684065606389) has status 201
+2026-02-04 10:11:24,177 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,181 - basicLogger - INFO - Received event server_health with a trace id of 1770228684181414195
+2026-02-04 10:11:24,185 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684185964636
+2026-02-04 10:11:24,186 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684186599710
+2026-02-04 10:11:24,186 - basicLogger - INFO - Response for event server_health (id: 1770228684076906864) has status 201
+2026-02-04 10:11:24,187 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684082279498) has status 201
+2026-02-04 10:11:24,187 - basicLogger - INFO - Response for event server_health (id: 1770228684089712459) has status 201
+2026-02-04 10:11:24,187 - basicLogger - INFO - Response for event server_health (id: 1770228684142572350) has status 201
+2026-02-04 10:11:24,188 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,195 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684195682740
+2026-02-04 10:11:24,195 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684195867480
+2026-02-04 10:11:24,199 - basicLogger - INFO - Received event server_health with a trace id of 1770228684199731293
+2026-02-04 10:11:24,201 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684160233534) has status 201
+2026-02-04 10:11:24,202 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,228 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684173621002) has status 201
+2026-02-04 10:11:24,228 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,229 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684100173928) has status 201
+2026-02-04 10:11:24,229 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,230 - basicLogger - INFO - Response for event server_health (id: 1770228684142572350) has status 201
+2026-02-04 10:11:24,233 - basicLogger - INFO - Response for event server_health (id: 1770228684181414195) has status 201
+2026-02-04 10:11:24,238 - basicLogger - INFO - Received event server_health with a trace id of 1770228684238051421
+2026-02-04 10:11:24,238 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684238404870
+2026-02-04 10:11:24,239 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684186599710) has status 201
+2026-02-04 10:11:24,239 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684195682740) has status 201
+2026-02-04 10:11:24,240 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,241 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,243 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684195867480) has status 201
+2026-02-04 10:11:24,243 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684160233534) has status 201
+2026-02-04 10:11:24,243 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,244 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,245 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684185964636) has status 201
+2026-02-04 10:11:24,246 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,250 - basicLogger - INFO - Response for event server_health (id: 1770228684199731293) has status 201
+2026-02-04 10:11:24,250 - basicLogger - INFO - Received event server_health with a trace id of 1770228684250875041
+2026-02-04 10:11:24,269 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684173621002) has status 201
+2026-02-04 10:11:24,269 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,271 - basicLogger - INFO - Received event server_health with a trace id of 1770228684271844495
+2026-02-04 10:11:24,273 - basicLogger - INFO - Response for event server_health (id: 1770228684181414195) has status 201
+2026-02-04 10:11:24,276 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684276592782
+2026-02-04 10:11:24,278 - basicLogger - INFO - Response for event server_health (id: 1770228684238051421) has status 201
+2026-02-04 10:11:24,282 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684238404870) has status 201
+2026-02-04 10:11:24,282 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,287 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684185964636) has status 201
+2026-02-04 10:11:24,287 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,288 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684186599710) has status 201
+2026-02-04 10:11:24,290 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,290 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684195682740) has status 201
+2026-02-04 10:11:24,292 - basicLogger - INFO - Received event server_health with a trace id of 1770228684292771818
+2026-02-04 10:11:24,293 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,319 - basicLogger - INFO - Received event server_health with a trace id of 1770228684319810081
+2026-02-04 10:11:24,328 - basicLogger - INFO - Received event server_health with a trace id of 1770228684328700653
+2026-02-04 10:11:24,328 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684195867480) has status 201
+2026-02-04 10:11:24,330 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,333 - basicLogger - INFO - Response for event server_health (id: 1770228684250875041) has status 201
+2026-02-04 10:11:24,333 - basicLogger - INFO - Response for event server_health (id: 1770228684199731293) has status 201
+2026-02-04 10:11:24,336 - basicLogger - INFO - Received event server_health with a trace id of 1770228684336199424
+2026-02-04 10:11:24,336 - basicLogger - INFO - Response for event server_health (id: 1770228684271844495) has status 201
+2026-02-04 10:11:24,342 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684342073310
+2026-02-04 10:11:24,346 - basicLogger - INFO - Response for event server_health (id: 1770228684238051421) has status 201
+2026-02-04 10:11:24,352 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684352244453
+2026-02-04 10:11:24,353 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684276592782) has status 201
+2026-02-04 10:11:24,355 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,360 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684238404870) has status 201
+2026-02-04 10:11:24,361 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,363 - basicLogger - INFO - Response for event server_health (id: 1770228684292771818) has status 201
+2026-02-04 10:11:24,366 - basicLogger - INFO - Received event server_health with a trace id of 1770228684366703931
+2026-02-04 10:11:24,369 - basicLogger - INFO - Response for event server_health (id: 1770228684319810081) has status 201
+2026-02-04 10:11:24,370 - basicLogger - INFO - Response for event server_health (id: 1770228684328700653) has status 201
+2026-02-04 10:11:24,374 - basicLogger - INFO - Response for event server_health (id: 1770228684250875041) has status 201
+2026-02-04 10:11:24,376 - basicLogger - INFO - Response for event server_health (id: 1770228684336199424) has status 201
+2026-02-04 10:11:24,379 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684379883126
+2026-02-04 10:11:24,383 - basicLogger - INFO - Response for event server_health (id: 1770228684271844495) has status 201
+2026-02-04 10:11:24,385 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684342073310) has status 201
+2026-02-04 10:11:24,387 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,390 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684390091742
+2026-02-04 10:11:24,396 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684276592782) has status 201
+2026-02-04 10:11:24,396 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,396 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684352244453) has status 201
+2026-02-04 10:11:24,398 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,400 - basicLogger - INFO - Received event server_health with a trace id of 1770228684400402548
+2026-02-04 10:11:24,421 - basicLogger - INFO - Response for event server_health (id: 1770228684366703931) has status 201
+2026-02-04 10:11:24,424 - basicLogger - INFO - Response for event server_health (id: 1770228684292771818) has status 201
+2026-02-04 10:11:24,425 - basicLogger - INFO - Response for event server_health (id: 1770228684328700653) has status 201
+2026-02-04 10:11:24,430 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684430701996
+2026-02-04 10:11:24,433 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684433403035
+2026-02-04 10:11:24,436 - basicLogger - INFO - Response for event server_health (id: 1770228684319810081) has status 201
+2026-02-04 10:11:24,437 - basicLogger - INFO - Response for event server_health (id: 1770228684336199424) has status 201
+2026-02-04 10:11:24,437 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684390091742) has status 201
+2026-02-04 10:11:24,439 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,439 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684342073310) has status 201
+2026-02-04 10:11:24,439 - basicLogger - INFO - Response for event server_health (id: 1770228684400402548) has status 201
+2026-02-04 10:11:24,440 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684352244453) has status 201
+2026-02-04 10:11:24,440 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684379883126) has status 201
+2026-02-04 10:11:24,441 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684441480815
+2026-02-04 10:11:24,442 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,444 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,444 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,445 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684445561522
+2026-02-04 10:11:24,457 - basicLogger - INFO - Received event server_health with a trace id of 1770228684457849004
+2026-02-04 10:11:24,458 - basicLogger - INFO - Received event server_health with a trace id of 1770228684458504309
+2026-02-04 10:11:24,463 - basicLogger - INFO - Response for event server_health (id: 1770228684366703931) has status 201
+2026-02-04 10:11:24,468 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684468198954
+2026-02-04 10:11:24,485 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684433403035) has status 201
+2026-02-04 10:11:24,485 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,490 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684441480815) has status 201
+2026-02-04 10:11:24,490 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684430701996) has status 201
+2026-02-04 10:11:24,490 - basicLogger - INFO - Response for event server_health (id: 1770228684400402548) has status 201
+2026-02-04 10:11:24,490 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,490 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,496 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684496618627
+2026-02-04 10:11:24,520 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684379883126) has status 201
+2026-02-04 10:11:24,521 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684390091742) has status 201
+2026-02-04 10:11:24,521 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,521 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,522 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684445561522) has status 201
+2026-02-04 10:11:24,523 - basicLogger - INFO - Response for event server_health (id: 1770228684458504309) has status 201
+2026-02-04 10:11:24,524 - basicLogger - INFO - Response for event server_health (id: 1770228684457849004) has status 201
+2026-02-04 10:11:24,524 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,527 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684468198954) has status 201
+2026-02-04 10:11:24,528 - basicLogger - INFO - Received event server_health with a trace id of 1770228684528342608
+2026-02-04 10:11:24,530 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,531 - basicLogger - INFO - Received event server_health with a trace id of 1770228684531395217
+2026-02-04 10:11:24,538 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684433403035) has status 201
+2026-02-04 10:11:24,539 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,541 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684430701996) has status 201
+2026-02-04 10:11:24,541 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684441480815) has status 201
+2026-02-04 10:11:24,541 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,541 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,546 - basicLogger - INFO - Received event server_health with a trace id of 1770228684546572658
+2026-02-04 10:11:24,550 - basicLogger - INFO - Received event server_health with a trace id of 1770228684550909570
+2026-02-04 10:11:24,555 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684496618627) has status 201
+2026-02-04 10:11:24,555 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,560 - basicLogger - INFO - Response for event server_health (id: 1770228684458504309) has status 201
+2026-02-04 10:11:24,564 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684564649731
+2026-02-04 10:11:24,567 - basicLogger - INFO - Response for event server_health (id: 1770228684457849004) has status 201
+2026-02-04 10:11:24,571 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684571099325
+2026-02-04 10:11:24,574 - basicLogger - INFO - Response for event server_health (id: 1770228684528342608) has status 201
+2026-02-04 10:11:24,576 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684445561522) has status 201
+2026-02-04 10:11:24,576 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,578 - basicLogger - INFO - Response for event server_health (id: 1770228684531395217) has status 201
+2026-02-04 10:11:24,584 - basicLogger - INFO - Received event server_health with a trace id of 1770228684583992048
+2026-02-04 10:11:24,584 - basicLogger - INFO - Response for event server_health (id: 1770228684546572658) has status 201
+2026-02-04 10:11:24,586 - basicLogger - INFO - Response for event server_health (id: 1770228684550909570) has status 201
+2026-02-04 10:11:24,589 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684496618627) has status 201
+2026-02-04 10:11:24,590 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,590 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684468198954) has status 201
+2026-02-04 10:11:24,593 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,595 - basicLogger - INFO - Received event server_health with a trace id of 1770228684594992884
+2026-02-04 10:11:24,601 - basicLogger - INFO - Received event server_health with a trace id of 1770228684601076626
+2026-02-04 10:11:24,607 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684571099325) has status 201
+2026-02-04 10:11:24,607 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,608 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684564649731) has status 201
+2026-02-04 10:11:24,609 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,609 - basicLogger - INFO - Response for event server_health (id: 1770228684528342608) has status 201
+2026-02-04 10:11:24,614 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684614336170
+2026-02-04 10:11:24,614 - basicLogger - INFO - Response for event server_health (id: 1770228684531395217) has status 201
+2026-02-04 10:11:24,617 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684617978337
+2026-02-04 10:11:24,620 - basicLogger - INFO - Response for event server_health (id: 1770228684546572658) has status 201
+2026-02-04 10:11:24,623 - basicLogger - INFO - Response for event server_health (id: 1770228684583992048) has status 201
+2026-02-04 10:11:24,625 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684625758437
+2026-02-04 10:11:24,628 - basicLogger - INFO - Response for event server_health (id: 1770228684550909570) has status 201
+2026-02-04 10:11:24,631 - basicLogger - INFO - Response for event server_health (id: 1770228684594992884) has status 201
+2026-02-04 10:11:24,633 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684633312542
+2026-02-04 10:11:24,644 - basicLogger - INFO - Response for event server_health (id: 1770228684601076626) has status 201
+2026-02-04 10:11:24,651 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684564649731) has status 201
+2026-02-04 10:11:24,651 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,656 - basicLogger - INFO - Received event server_health with a trace id of 1770228684656947443
+2026-02-04 10:11:24,657 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684614336170) has status 201
+2026-02-04 10:11:24,658 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,662 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684617978337) has status 201
+2026-02-04 10:11:24,662 - basicLogger - INFO - Response for event server_health (id: 1770228684583992048) has status 201
+2026-02-04 10:11:24,662 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684571099325) has status 201
+2026-02-04 10:11:24,663 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,663 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684625758437) has status 201
+2026-02-04 10:11:24,664 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,664 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684633312542) has status 201
+2026-02-04 10:11:24,664 - basicLogger - INFO - Response for event server_health (id: 1770228684594992884) has status 201
+2026-02-04 10:11:24,665 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,667 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,667 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684667778594
+2026-02-04 10:11:24,669 - basicLogger - INFO - Response for event server_health (id: 1770228684601076626) has status 201
+2026-02-04 10:11:24,672 - basicLogger - INFO - Received event server_health with a trace id of 1770228684672869989
+2026-02-04 10:11:24,676 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684676086870
+2026-02-04 10:11:24,685 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684685351242
+2026-02-04 10:11:24,722 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684617978337) has status 201
+2026-02-04 10:11:24,723 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,726 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684614336170) has status 201
+2026-02-04 10:11:24,726 - basicLogger - INFO - Response for event server_health (id: 1770228684656947443) has status 201
+2026-02-04 10:11:24,727 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,730 - basicLogger - INFO - Received event server_health with a trace id of 1770228684730646251
+2026-02-04 10:11:24,733 - basicLogger - INFO - Received event server_health with a trace id of 1770228684733701631
+2026-02-04 10:11:24,737 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684625758437) has status 201
+2026-02-04 10:11:24,737 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,740 - basicLogger - INFO - Received event server_health with a trace id of 1770228684740461972
+2026-02-04 10:11:24,743 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684633312542) has status 201
+2026-02-04 10:11:24,744 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,744 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684685351242) has status 201
+2026-02-04 10:11:24,747 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,749 - basicLogger - INFO - Received event server_health with a trace id of 1770228684749486724
+2026-02-04 10:11:24,753 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684667778594) has status 201
+2026-02-04 10:11:24,754 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,755 - basicLogger - INFO - Response for event server_health (id: 1770228684672869989) has status 201
+2026-02-04 10:11:24,755 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684676086870) has status 201
+2026-02-04 10:11:24,756 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,769 - basicLogger - INFO - Response for event server_health (id: 1770228684656947443) has status 201
+2026-02-04 10:11:24,773 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684773630903
+2026-02-04 10:11:24,782 - basicLogger - INFO - Response for event server_health (id: 1770228684730646251) has status 201
+2026-02-04 10:11:24,782 - basicLogger - INFO - Response for event server_health (id: 1770228684733701631) has status 201
+2026-02-04 10:11:24,783 - basicLogger - INFO - Response for event server_health (id: 1770228684740461972) has status 201
+2026-02-04 10:11:24,784 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684685351242) has status 201
+2026-02-04 10:11:24,784 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,790 - basicLogger - INFO - Received event server_health with a trace id of 1770228684790736779
+2026-02-04 10:11:24,791 - basicLogger - INFO - Response for event server_health (id: 1770228684749486724) has status 201
+2026-02-04 10:11:24,793 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684667778594) has status 201
+2026-02-04 10:11:24,795 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,795 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684676086870) has status 201
+2026-02-04 10:11:24,797 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,800 - basicLogger - INFO - Response for event server_health (id: 1770228684672869989) has status 201
+2026-02-04 10:11:24,804 - basicLogger - INFO - Received event server_health with a trace id of 1770228684804292739
+2026-02-04 10:11:24,807 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684807939992
+2026-02-04 10:11:24,810 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684773630903) has status 201
+2026-02-04 10:11:24,810 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,818 - basicLogger - INFO - Response for event server_health (id: 1770228684730646251) has status 201
+2026-02-04 10:11:24,822 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684822561040
+2026-02-04 10:11:24,826 - basicLogger - INFO - Response for event server_health (id: 1770228684733701631) has status 201
+2026-02-04 10:11:24,829 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684829874846
+2026-02-04 10:11:24,831 - basicLogger - INFO - Response for event server_health (id: 1770228684740461972) has status 201
+2026-02-04 10:11:24,834 - basicLogger - INFO - Response for event server_health (id: 1770228684749486724) has status 201
+2026-02-04 10:11:24,837 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684837346165
+2026-02-04 10:11:24,839 - basicLogger - INFO - Response for event server_health (id: 1770228684790736779) has status 201
+2026-02-04 10:11:24,842 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684842252136
+2026-02-04 10:11:24,846 - basicLogger - INFO - Response for event server_health (id: 1770228684804292739) has status 201
+2026-02-04 10:11:24,846 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684807939992) has status 201
+2026-02-04 10:11:24,846 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684773630903) has status 201
+2026-02-04 10:11:24,847 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,847 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,859 - basicLogger - INFO - Received event server_health with a trace id of 1770228684859493099
+2026-02-04 10:11:24,860 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684822561040) has status 201
+2026-02-04 10:11:24,861 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,867 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684829874846) has status 201
+2026-02-04 10:11:24,868 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,873 - basicLogger - INFO - Response for event server_health (id: 1770228684790736779) has status 201
+2026-02-04 10:11:24,873 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684837346165) has status 201
+2026-02-04 10:11:24,874 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,881 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684842252136) has status 201
+2026-02-04 10:11:24,881 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,885 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684885015120
+2026-02-04 10:11:24,890 - basicLogger - INFO - Response for event server_health (id: 1770228684804292739) has status 201
+2026-02-04 10:11:24,894 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684894542805
+2026-02-04 10:11:24,897 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684807939992) has status 201
+2026-02-04 10:11:24,898 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,903 - basicLogger - INFO - Received event server_health with a trace id of 1770228684903644530
+2026-02-04 10:11:24,904 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684822561040) has status 201
+2026-02-04 10:11:24,907 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,913 - basicLogger - INFO - Received event server_health with a trace id of 1770228684913045045
+2026-02-04 10:11:24,916 - basicLogger - INFO - Response for event server_health (id: 1770228684859493099) has status 201
+2026-02-04 10:11:24,917 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684837346165) has status 201
+2026-02-04 10:11:24,919 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684842252136) has status 201
+2026-02-04 10:11:24,921 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684885015120) has status 201
+2026-02-04 10:11:24,920 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,921 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,921 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684829874846) has status 201
+2026-02-04 10:11:24,921 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,923 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,929 - basicLogger - INFO - Received event server_health with a trace id of 1770228684929448324
+2026-02-04 10:11:24,930 - basicLogger - INFO - Received event server_health with a trace id of 1770228684930448557
+2026-02-04 10:11:24,935 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684894542805) has status 201
+2026-02-04 10:11:24,935 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:24,935 - basicLogger - INFO - Received event server_health with a trace id of 1770228684935405153
+2026-02-04 10:11:24,937 - basicLogger - INFO - Response for event server_health (id: 1770228684903644530) has status 201
+2026-02-04 10:11:24,989 - basicLogger - INFO - Response for event server_health (id: 1770228684913045045) has status 201
+2026-02-04 10:11:24,989 - basicLogger - INFO - Response for event server_health (id: 1770228684859493099) has status 201
+2026-02-04 10:11:24,995 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228684995445053
+2026-02-04 10:11:25,005 - basicLogger - INFO - Response for event server_health (id: 1770228684935405153) has status 201
+2026-02-04 10:11:25,010 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684894542805) has status 201
+2026-02-04 10:11:25,011 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,016 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684885015120) has status 201
+2026-02-04 10:11:25,017 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,023 - basicLogger - INFO - Received event server_health with a trace id of 1770228685023705392
+2026-02-04 10:11:25,026 - basicLogger - INFO - Response for event server_health (id: 1770228684930448557) has status 201
+2026-02-04 10:11:25,026 - basicLogger - INFO - Response for event server_health (id: 1770228684929448324) has status 201
+2026-02-04 10:11:25,028 - basicLogger - INFO - Response for event server_health (id: 1770228684903644530) has status 201
+2026-02-04 10:11:25,030 - basicLogger - INFO - Response for event server_health (id: 1770228684913045045) has status 201
+2026-02-04 10:11:25,034 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684995445053) has status 201
+2026-02-04 10:11:25,035 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,037 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685037760649
+2026-02-04 10:11:25,038 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685038129941
+2026-02-04 10:11:25,048 - basicLogger - INFO - Response for event server_health (id: 1770228684935405153) has status 201
+2026-02-04 10:11:25,055 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685055070380
+2026-02-04 10:11:25,069 - basicLogger - INFO - Response for event server_health (id: 1770228685023705392) has status 201
+2026-02-04 10:11:25,072 - basicLogger - INFO - Response for event server_health (id: 1770228684929448324) has status 201
+2026-02-04 10:11:25,078 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685078012315
+2026-02-04 10:11:25,079 - basicLogger - INFO - Response for event server_health (id: 1770228684930448557) has status 201
+2026-02-04 10:11:25,084 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685084032222
+2026-02-04 10:11:25,084 - basicLogger - INFO - Response for event player_telemetry (id: 1770228684995445053) has status 201
+2026-02-04 10:11:25,084 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685037760649) has status 201
+2026-02-04 10:11:25,085 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,085 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,087 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685038129941) has status 201
+2026-02-04 10:11:25,087 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,092 - basicLogger - INFO - Received event server_health with a trace id of 1770228685092145990
+2026-02-04 10:11:25,093 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685055070380) has status 201
+2026-02-04 10:11:25,094 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,104 - basicLogger - INFO - Response for event server_health (id: 1770228685023705392) has status 201
+2026-02-04 10:11:25,109 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685109920317
+2026-02-04 10:11:25,116 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685078012315) has status 201
+2026-02-04 10:11:25,116 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,123 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685084032222) has status 201
+2026-02-04 10:11:25,124 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,126 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685038129941) has status 201
+2026-02-04 10:11:25,127 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,131 - basicLogger - INFO - Received event server_health with a trace id of 1770228685131971848
+2026-02-04 10:11:25,132 - basicLogger - INFO - Response for event server_health (id: 1770228685092145990) has status 201
+2026-02-04 10:11:25,132 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685055070380) has status 201
+2026-02-04 10:11:25,132 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685037760649) has status 201
+2026-02-04 10:11:25,133 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,133 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,139 - basicLogger - INFO - Received event server_health with a trace id of 1770228685139563938
+2026-02-04 10:11:25,143 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685109920317) has status 201
+2026-02-04 10:11:25,142 - basicLogger - INFO - Received event server_health with a trace id of 1770228685142819911
+2026-02-04 10:11:25,143 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,145 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685078012315) has status 201
+2026-02-04 10:11:25,146 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,150 - basicLogger - INFO - Received event server_health with a trace id of 1770228685150539002
+2026-02-04 10:11:25,156 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685084032222) has status 201
+2026-02-04 10:11:25,156 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,161 - basicLogger - INFO - Received event server_health with a trace id of 1770228685161098011
+2026-02-04 10:11:25,167 - basicLogger - INFO - Response for event server_health (id: 1770228685092145990) has status 201
+2026-02-04 10:11:25,170 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685170695973
+2026-02-04 10:11:25,176 - basicLogger - INFO - Response for event server_health (id: 1770228685139563938) has status 201
+2026-02-04 10:11:25,178 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685109920317) has status 201
+2026-02-04 10:11:25,178 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,179 - basicLogger - INFO - Response for event server_health (id: 1770228685131971848) has status 201
+2026-02-04 10:11:25,179 - basicLogger - INFO - Response for event server_health (id: 1770228685142819911) has status 201
+2026-02-04 10:11:25,186 - basicLogger - INFO - Response for event server_health (id: 1770228685150539002) has status 201
+2026-02-04 10:11:25,189 - basicLogger - INFO - Response for event server_health (id: 1770228685161098011) has status 201
+2026-02-04 10:11:25,212 - basicLogger - INFO - Response for event server_health (id: 1770228685131971848) has status 201
+2026-02-04 10:11:25,213 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685170695973) has status 201
+2026-02-04 10:11:25,214 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,218 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685218168383
+2026-02-04 10:11:25,219 - basicLogger - INFO - Response for event server_health (id: 1770228685139563938) has status 201
+2026-02-04 10:11:25,219 - basicLogger - INFO - Response for event server_health (id: 1770228685161098011) has status 201
+2026-02-04 10:11:25,219 - basicLogger - INFO - Response for event server_health (id: 1770228685142819911) has status 201
+2026-02-04 10:11:25,226 - basicLogger - INFO - Response for event server_health (id: 1770228685150539002) has status 201
+2026-02-04 10:11:25,226 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685226875806
+2026-02-04 10:11:25,227 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685227186348
+2026-02-04 10:11:25,228 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685227991195
+2026-02-04 10:11:25,232 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685232725383
+2026-02-04 10:11:25,241 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685218168383) has status 201
+2026-02-04 10:11:25,242 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,243 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685170695973) has status 201
+2026-02-04 10:11:25,243 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,276 - basicLogger - INFO - Received event server_health with a trace id of 1770228685276967772
+2026-02-04 10:11:25,286 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685227186348) has status 201
+2026-02-04 10:11:25,287 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,286 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685227991195) has status 201
+2026-02-04 10:11:25,287 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,288 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685226875806) has status 201
+2026-02-04 10:11:25,288 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,294 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685232725383) has status 201
+2026-02-04 10:11:25,295 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,298 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685218168383) has status 201
+2026-02-04 10:11:25,298 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,305 - basicLogger - INFO - Received event server_health with a trace id of 1770228685305355556
+2026-02-04 10:11:25,306 - basicLogger - INFO - Response for event server_health (id: 1770228685276967772) has status 201
+2026-02-04 10:11:25,324 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685227991195) has status 201
+2026-02-04 10:11:25,324 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,326 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685232725383) has status 201
+2026-02-04 10:11:25,327 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,331 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685227186348) has status 201
+2026-02-04 10:11:25,331 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,332 - basicLogger - INFO - Received event server_health with a trace id of 1770228685332101749
+2026-02-04 10:11:25,337 - basicLogger - INFO - Received event server_health with a trace id of 1770228685337638002
+2026-02-04 10:11:25,337 - basicLogger - INFO - Response for event server_health (id: 1770228685276967772) has status 201
+2026-02-04 10:11:25,339 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685226875806) has status 201
+2026-02-04 10:11:25,339 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,341 - basicLogger - INFO - Response for event server_health (id: 1770228685305355556) has status 201
+2026-02-04 10:11:25,344 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685344632892
+2026-02-04 10:11:25,347 - basicLogger - INFO - Received event server_health with a trace id of 1770228685347704864
+2026-02-04 10:11:25,354 - basicLogger - INFO - Response for event server_health (id: 1770228685332101749) has status 201
+2026-02-04 10:11:25,360 - basicLogger - INFO - Response for event server_health (id: 1770228685337638002) has status 201
+2026-02-04 10:11:25,368 - basicLogger - INFO - Response for event server_health (id: 1770228685305355556) has status 201
+2026-02-04 10:11:25,372 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685344632892) has status 201
+2026-02-04 10:11:25,372 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685372282802
+2026-02-04 10:11:25,372 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,374 - basicLogger - INFO - Response for event server_health (id: 1770228685347704864) has status 201
+2026-02-04 10:11:25,376 - basicLogger - INFO - Response for event server_health (id: 1770228685332101749) has status 201
+2026-02-04 10:11:25,378 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685378769299
+2026-02-04 10:11:25,382 - basicLogger - INFO - Response for event server_health (id: 1770228685337638002) has status 201
+2026-02-04 10:11:25,386 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685386421143
+2026-02-04 10:11:25,396 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685344632892) has status 201
+2026-02-04 10:11:25,397 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,398 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685372282802) has status 201
+2026-02-04 10:11:25,399 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,402 - basicLogger - INFO - Received event server_health with a trace id of 1770228685402120851
+2026-02-04 10:11:25,404 - basicLogger - INFO - Response for event server_health (id: 1770228685347704864) has status 201
+2026-02-04 10:11:25,404 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685378769299) has status 201
+2026-02-04 10:11:25,405 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,407 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685407389523
+2026-02-04 10:11:25,413 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685386421143) has status 201
+2026-02-04 10:11:25,413 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,426 - basicLogger - INFO - Response for event server_health (id: 1770228685402120851) has status 201
+2026-02-04 10:11:25,428 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685372282802) has status 201
+2026-02-04 10:11:25,428 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,432 - basicLogger - INFO - Received event server_health with a trace id of 1770228685432722015
+2026-02-04 10:11:25,434 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685378769299) has status 201
+2026-02-04 10:11:25,435 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,435 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685407389523) has status 201
+2026-02-04 10:11:25,436 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685386421143) has status 201
+2026-02-04 10:11:25,436 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,436 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,439 - basicLogger - INFO - Received event server_health with a trace id of 1770228685439363394
+2026-02-04 10:11:25,441 - basicLogger - INFO - Received event server_health with a trace id of 1770228685441580283
+2026-02-04 10:11:25,453 - basicLogger - INFO - Response for event server_health (id: 1770228685402120851) has status 201
+2026-02-04 10:11:25,457 - basicLogger - INFO - Response for event server_health (id: 1770228685432722015) has status 201
+2026-02-04 10:11:25,458 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685458669336
+2026-02-04 10:11:25,463 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685407389523) has status 201
+2026-02-04 10:11:25,463 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,467 - basicLogger - INFO - Response for event server_health (id: 1770228685439363394) has status 201
+2026-02-04 10:11:25,468 - basicLogger - INFO - Response for event server_health (id: 1770228685441580283) has status 201
+2026-02-04 10:11:25,483 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685458669336) has status 201
+2026-02-04 10:11:25,483 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,484 - basicLogger - INFO - Response for event server_health (id: 1770228685432722015) has status 201
+2026-02-04 10:11:25,488 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685488210095
+2026-02-04 10:11:25,492 - basicLogger - INFO - Response for event server_health (id: 1770228685439363394) has status 201
+2026-02-04 10:11:25,495 - basicLogger - INFO - Response for event server_health (id: 1770228685441580283) has status 201
+2026-02-04 10:11:25,495 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685495806812
+2026-02-04 10:11:25,499 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685499078986
+2026-02-04 10:11:25,510 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685458669336) has status 201
+2026-02-04 10:11:25,510 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,514 - basicLogger - INFO - Received event server_health with a trace id of 1770228685514464187
+2026-02-04 10:11:25,514 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685488210095) has status 201
+2026-02-04 10:11:25,515 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,519 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685495806812) has status 201
+2026-02-04 10:11:25,520 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,522 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685499078986) has status 201
+2026-02-04 10:11:25,522 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,534 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685488210095) has status 201
+2026-02-04 10:11:25,534 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,535 - basicLogger - INFO - Response for event server_health (id: 1770228685514464187) has status 201
+2026-02-04 10:11:25,543 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685495806812) has status 201
+2026-02-04 10:11:25,543 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,546 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685499078986) has status 201
+2026-02-04 10:11:25,547 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,547 - basicLogger - INFO - Received event server_health with a trace id of 1770228685547246454
+2026-02-04 10:11:25,555 - basicLogger - INFO - Response for event server_health (id: 1770228685514464187) has status 201
+2026-02-04 10:11:25,558 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685558859505
+2026-02-04 10:11:25,565 - basicLogger - INFO - Response for event server_health (id: 1770228685547246454) has status 201
+2026-02-04 10:11:25,574 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685558859505) has status 201
+2026-02-04 10:11:25,574 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,581 - basicLogger - INFO - Response for event server_health (id: 1770228685547246454) has status 201
+2026-02-04 10:11:25,584 - basicLogger - INFO - Received event player_telemetry with a trace id of 1770228685584185299
+2026-02-04 10:11:25,591 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685558859505) has status 201
+2026-02-04 10:11:25,591 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,600 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685584185299) has status 201
+2026-02-04 10:11:25,601 - basicLogger - INFO - Storage response body: 
+2026-02-04 10:11:25,616 - basicLogger - INFO - Response for event player_telemetry (id: 1770228685584185299) has status 201
+2026-02-04 10:11:25,616 - basicLogger - INFO - Storage response body: 
